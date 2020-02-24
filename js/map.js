@@ -221,4 +221,4 @@ legend.onAdd = function (map) {
 
 legend.addTo(map);
 
-var chart = L.control();
+//var chart = L.control();
