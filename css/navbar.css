@@ -100,3 +100,7 @@ body {
 .tools-btn-redo:hover {
   color: #1abc9c;
 }
+
+#refreshButton{
+  margin-right: 130px;
+}
