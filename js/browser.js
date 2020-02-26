@@ -6,23 +6,38 @@ function refresh(){
 }
 
 // redirect to cal state map page
+function redirectHome(){
+    window.location = "/../map.html";
+}
+
+// redirect to cal state map page
 function redirectCalPage(){
     window.location = "/../calStateMap.html";
 }
 
+// redirect to cal state map page
+function redirectTexasPage(){
+    window.location = "/../texasStateMap.html";
+}
+
+// redirect to cal state map page
+function redirectRIPage(){
+    window.location = "/../rIslandStateMap.html";
+}
+
 // resize map to always fit window size
 function resizeMap() {
-    $("mapid").css('width', str(window.innerHeight*0.925));
-    $("mapid").css('height', '210mm');
-    map.invalidateSize();
-    //document.getElementById("mapid").style.setProperty("height", window.innerHeight * 0.925);
-    //document.getElementById("mapid").style.setProperty("width", window.innerWidth);
+
 }
 
 function initListeners(){
-    setTimeout(function(){ map.invalidateSize()}, 400);
-    document.getElementById("refreshButton").addEventListener("click", refresh);
+    try{document.getElementById("refreshButton").addEventListener("click", refresh);} catch (e){}
+    try{document.getElementById("calRefreshButton").addEventListener("click", redirectHome);} catch (e){}
+    try{document.getElementById("texasRefreshButton").addEventListener("click", redirectHome);} catch (e){}
+    try{document.getElementById("rIslandRefreshButton").addEventListener("click", redirectHome);} catch (e){}
     document.getElementById("showCaliforniaButton").addEventListener("click", redirectCalPage);
+    document.getElementById("showTexasButton").addEventListener("click", redirectTexasPage);
+    document.getElementById("showRIslandButton").addEventListener("click", redirectRIPage);
 }
 
 initListeners();
