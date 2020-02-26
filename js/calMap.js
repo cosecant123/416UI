@@ -63,6 +63,17 @@ function styleOtherStates(feature) {
     };
   }
 
+// style for counties
+function styleCounties(feature) {
+  return {
+    fillColor: "#f075e6",
+    weight: 3,
+    opacity: 1,
+    color: "#6eff54", //Outline color
+    fillOpacity: 0.7
+  };
+}
+
 initMap();
 
 $.getJSON(OTHER_STATES_PATH, data =>{
@@ -80,7 +91,7 @@ $.getJSON(CAL_BORDER_PATH, data =>{
 document.getElementById("togBtnC").addEventListener("change", function(){
   if (this.checked){
     $.getJSON(CAL_COUNTIES_PATH, data =>{
-      calCountiesData =  L.geoJson(data, {style: styleCalBorder}).addTo(map);
+      calCountiesData =  L.geoJson(data, {style: styleCounties}).addTo(map);
     });
   }else{
     map.removeLayer(calCountiesData);

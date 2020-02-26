@@ -62,6 +62,19 @@ function styleOtherStates(feature) {
     };
   }
 
+
+// style for counties
+function styleCounties(feature) {
+  return {
+    fillColor: "#f075e6",
+    weight: 3,
+    opacity: 1,
+    color: "#6eff54", //Outline color
+    fillOpacity: 0.7
+  };
+}
+
+
 initMap();
 
 $.getJSON(OTHER_STATES_PATH, data =>{
@@ -79,7 +92,7 @@ $.getJSON(TEXAS_BORDER_PATH, data =>{
 document.getElementById("togBtnC").addEventListener("change", function(){
   if (this.checked){
     $.getJSON(TEXAS_COUNTIES_PATH, data =>{
-      texasCountiesData =  L.geoJson(data, {style: styleTexasBorder}).addTo(map);
+      texasCountiesData =  L.geoJson(data, {style: styleCounties}).addTo(map);
     });
   }else{
     map.removeLayer(texasCountiesData);
