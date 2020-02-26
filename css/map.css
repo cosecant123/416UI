@@ -1,6 +1,11 @@
-#mapid {
+#mapid{
     height: 92.5vh;
     width: 100vw;
+}
+
+#calMapID{
+    height: 92.5vh;
+    width: 65vw;
 }
 
 .info {

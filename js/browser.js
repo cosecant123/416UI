@@ -5,6 +5,11 @@ function refresh(){
     location.reload();
 }
 
+// redirect to cal state map page
+function redirectCalPage(){
+    window.location = "/../calStateMap.html";
+}
+
 // resize map to always fit window size
 function resizeMap() {
     $("mapid").css('width', str(window.innerHeight*0.925));
@@ -17,6 +22,7 @@ function resizeMap() {
 function initListeners(){
     setTimeout(function(){ map.invalidateSize()}, 400);
     document.getElementById("refreshButton").addEventListener("click", refresh);
+    document.getElementById("showCaliforniaButton").addEventListener("click", redirectCalPage);
 }
 
 initListeners();
