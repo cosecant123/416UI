@@ -1,14 +1,13 @@
 let map;
-const US_BORDER_DATA_PATH = "/../data/USborder.geojson";
-const PICKED_STATES_DATA_PATH = "/../data/pickedStates.geojson";
 const OTHER_STATES_DATA_PATH = "/../data/otherStates.geojson";
-const US_COUNTIES_DATA_PATH = "/../data/UScounties.geojson";
-const CONGRESSIONAL_DATA_PATH = "/../data/congressional.geojson";
-let usBorderData;
-let pickedStatesData;
+const CAL_BORDER_PATH = "/../data/calBorder.GeoJSON";
+const TEXAS_BORDER_PATH = "/../data/texasBorder.GeoJSON";
+const RI_BORDER_PATH = "/../data/rIslandBorder.GeoJSON";
+
 let otherStatesData;
-let usCountiesData;
-let congressionalData;
+let calBorderData;
+let texasBorderData;
+let rIslandBorderData;
 
 /**
  * create a leaflet map
@@ -99,7 +98,13 @@ function initLoadGeoJSON(){
   $.getJSON(OTHER_STATES_DATA_PATH, data =>{
     style(data, styleOtherStates);
   });
-  $.getJSON(PICKED_STATES_DATA_PATH, data =>{
+  $.getJSON(CAL_BORDER_PATH, data =>{
+    style(data, stylePickedStatesData);
+  });
+  $.getJSON(TEXAS_BORDER_PATH, data =>{
+    style(data, stylePickedStatesData);
+  });
+  $.getJSON(RI_BORDER_PATH, data =>{
     style(data, stylePickedStatesData);
   });
 }
@@ -140,25 +145,50 @@ function resetHighlight(e) {
 
 
 
-function zoomToFeature(e) {
-  console.log("mouse clicked");
-  map.fitBounds(e.target.getBounds());
-}
 
-//##############################
-function onEachFeature(feature, layer) {
+// listeners apply on each picked state
+function onCalifornia(feature, layer) {
   //触发的function
   layer.on({
     mouseover: highlightFeature,
     mouseout: resetHighlight,
-    click: zoomToFeature
+    click: redirectCalPage
+  });
+}
+function onTexas(feature, layer) {
+  //触发的function
+  layer.on({
+    mouseover: highlightFeature,
+    mouseout: resetHighlight,
+    click: redirectTexasPage
+  });
+}
+function onRhodeIsland(feature, layer) {
+  //触发的function
+  layer.on({
+    mouseover: highlightFeature,
+    mouseout: resetHighlight,
+    click: redirectRIPage
   });
 }
 
-$.getJSON(PICKED_STATES_DATA_PATH, data =>{
+
+$.getJSON(CAL_BORDER_PATH, data =>{
   geojson = L.geoJson(data, {
     style: stylePickedStatesData,
-    onEachFeature: onEachFeature
+    onEachFeature: onCalifornia
+  }).addTo(map);
+});
+$.getJSON(TEXAS_BORDER_PATH, data =>{
+  geojson = L.geoJson(data, {
+    style: stylePickedStatesData,
+    onEachFeature: onTexas
+  }).addTo(map);
+});
+$.getJSON(RI_BORDER_PATH, data =>{
+  geojson = L.geoJson(data, {
+    style: stylePickedStatesData,
+    onEachFeature: onRhodeIsland
   }).addTo(map);
 });
 
