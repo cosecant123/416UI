@@ -2,7 +2,9 @@ let map;
 const TEXAS_BORDER_PATH = "/../data/texasBorder.GeoJSON";
 const OTHER_STATES_PATH = "/../data/otherStates.GeoJSON";
 const MEXICO_BORDER_PATH = "/../data/mexicoBorder.GeoJSON";
+const TEXAS_COUNTIES_PATH = "/../data/texasCounties.GeoJSON";
 let texasBorderData;
+let texasCountiesData;
 /**
  * create a leaflet map
  * center in Texas
@@ -70,4 +72,16 @@ $.getJSON(MEXICO_BORDER_PATH, data =>{
 });
 $.getJSON(TEXAS_BORDER_PATH, data =>{
     texasBorderData = L.geoJson(data, {style: styleTexasBorder}).addTo(map);
+});
+
+
+// add listener to the show county and show precinct toggles
+document.getElementById("togBtnC").addEventListener("change", function(){
+  if (this.checked){
+    $.getJSON(TEXAS_COUNTIES_PATH, data =>{
+      texasCountiesData =  L.geoJson(data, {style: styleTexasBorder}).addTo(map);
+    });
+  }else{
+    map.removeLayer(texasCountiesData);
+  }
 });

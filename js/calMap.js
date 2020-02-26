@@ -2,7 +2,10 @@ let map;
 const CAL_BORDER_PATH = "/../data/calBorder.GeoJSON";
 const OTHER_STATES_PATH = "/../data/otherStates.GeoJSON";
 const MEXICO_BORDER_PATH = "/../data/mexicoBorder.GeoJSON";
+const CAL_COUNTIES_PATH = "/../data/calCounties.GeoJSON";
 let calBorderData;
+let calCountiesData;
+let calPrecinctsData;
 /**
  * create a leaflet map
  * center in California
@@ -70,4 +73,16 @@ $.getJSON(MEXICO_BORDER_PATH, data =>{
 });
 $.getJSON(CAL_BORDER_PATH, data =>{
     calBorderData = L.geoJson(data, {style: styleCalBorder}).addTo(map);
+});
+
+
+// add listener to the show county and show precinct toggles
+document.getElementById("togBtnC").addEventListener("change", function(){
+  if (this.checked){
+    $.getJSON(CAL_COUNTIES_PATH, data =>{
+      calCountiesData =  L.geoJson(data, {style: styleCalBorder}).addTo(map);
+    });
+  }else{
+    map.removeLayer(calCountiesData);
+  }
 });

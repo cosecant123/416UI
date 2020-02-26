@@ -1,7 +1,9 @@
 let map;
 const RI_BORDER_PATH = "/../data/rIslandBorder.GeoJSON";
 const OTHER_STATES_PATH = "/../data/otherStates.GeoJSON";
+const RI_COUNTIES_PATH = "/../data/rIslandCounties.GeoJSON";
 let rIslandBorderData;
+let rIslandCountiesData;
 /**
  * create a leaflet map
  * center in US
@@ -65,4 +67,16 @@ $.getJSON(OTHER_STATES_PATH, data =>{
 });
 $.getJSON(RI_BORDER_PATH, data =>{
     rIslandBorderData = L.geoJson(data, {style: styleRIBorder}).addTo(map);
+});
+
+
+// add listener to the show county and show precinct toggles
+document.getElementById("togBtnC").addEventListener("change", function(){
+  if (this.checked){
+    $.getJSON(RI_COUNTIES_PATH, data =>{
+      rIslandCountiesData =  L.geoJson(data, {style: styleRIBorder}).addTo(map);
+    });
+  }else{
+    map.removeLayer(rIslandCountiesData);
+  }
 });
