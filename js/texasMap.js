@@ -1,14 +1,14 @@
 let map;
-const CAL_BORDER_PATH = "/../data/calBorder.GeoJSON";
+const TEXAS_BORDER_PATH = "/../data/texasBorder.GeoJSON";
 const OTHER_STATES_PATH = "/../data/otherStates.GeoJSON";
 const MEXICO_BORDER_PATH = "/../data/mexicoBorder.GeoJSON";
-let calBorderData;
+let texasBorderData;
 /**
  * create a leaflet map
- * center in California
+ * center in Texas
  */
 function initMap() {
-  map = L.map("calMapID").setView([37.0902405, -121.7128906], 6);
+  map = L.map("texasMapID").setView([31.0902405, -98.7128906], 6);
   L.tileLayer(
     "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}",
     {
@@ -30,8 +30,8 @@ function initMap() {
   // setting boundaries so it only show united states
   map.setMaxBounds(
     L.latLngBounds(
-      L.latLng(42.837377, -127.327629), //Southwest
-      L.latLng(31.384359, -110.885666) //Northeast
+      L.latLng(37.837377, -108.327629), //Southwest
+      L.latLng(25.384359, -92.885666) //Northeast
     )
   );
 
@@ -40,7 +40,7 @@ function initMap() {
 
 
 // style for the 3 picked states
-function styleCalBorder(feature) {
+function styleTexasBorder(feature) {
   return {
     weight: 2,
     opacity: 1,
@@ -66,8 +66,8 @@ $.getJSON(OTHER_STATES_PATH, data =>{
     L.geoJson(data, {style: styleOtherStates}).addTo(map);
 });
 $.getJSON(MEXICO_BORDER_PATH, data =>{
-  L.geoJson(data, {style: styleOtherStates}).addTo(map);
+    L.geoJson(data, {style: styleOtherStates}).addTo(map);
 });
-$.getJSON(CAL_BORDER_PATH, data =>{
-    calBorderData = L.geoJson(data, {style: styleCalBorder}).addTo(map);
+$.getJSON(TEXAS_BORDER_PATH, data =>{
+    texasBorderData = L.geoJson(data, {style: styleTexasBorder}).addTo(map);
 });

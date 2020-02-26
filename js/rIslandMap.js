@@ -1,21 +1,21 @@
 let map;
-const CAL_BORDER_PATH = "/../data/calBorder.GeoJSON";
+const RI_BORDER_PATH = "/../data/rIslandBorder.GeoJSON";
 const OTHER_STATES_PATH = "/../data/otherStates.GeoJSON";
-const MEXICO_BORDER_PATH = "/../data/mexicoBorder.GeoJSON";
-let calBorderData;
+let rIslandBorderData;
 /**
  * create a leaflet map
- * center in California
+ * center in US
+ * zoom: disabled
  */
 function initMap() {
-  map = L.map("calMapID").setView([37.0902405, -121.7128906], 6);
+  map = L.map("rIslandMapID").setView([42.0902405, -71.7128906], 10);
   L.tileLayer(
     "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}",
     {
       attribution:
         'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
       noWrap: true,
-      minZoom:6,
+      minZoom: 10,
       id: "mapbox/streets-v11",
       tileSize: 512,
       zoomOffset: -1,
@@ -30,17 +30,15 @@ function initMap() {
   // setting boundaries so it only show united states
   map.setMaxBounds(
     L.latLngBounds(
-      L.latLng(42.837377, -127.327629), //Southwest
-      L.latLng(31.384359, -110.885666) //Northeast
+      L.latLng(41.997377, -72.327629), //Southwest
+      L.latLng(41.384359, -70.885666) //Northeast
     )
   );
-
-  // add geojson to map
 }
 
 
 // style for the 3 picked states
-function styleCalBorder(feature) {
+function styleRIBorder(feature) {
   return {
     weight: 2,
     opacity: 1,
@@ -65,9 +63,6 @@ initMap();
 $.getJSON(OTHER_STATES_PATH, data =>{
     L.geoJson(data, {style: styleOtherStates}).addTo(map);
 });
-$.getJSON(MEXICO_BORDER_PATH, data =>{
-  L.geoJson(data, {style: styleOtherStates}).addTo(map);
-});
-$.getJSON(CAL_BORDER_PATH, data =>{
-    calBorderData = L.geoJson(data, {style: styleCalBorder}).addTo(map);
+$.getJSON(RI_BORDER_PATH, data =>{
+    rIslandBorderData = L.geoJson(data, {style: styleRIBorder}).addTo(map);
 });
