@@ -4,8 +4,7 @@ const OTHER_STATES_PATH = "/../data/otherStates.GeoJSON";
 let calBorderData;
 /**
  * create a leaflet map
- * center in US
- * zoom: disabled
+ * center in California
  */
 function initMap() {
   map = L.map("calMapID").setView([37.0902405, -121.7128906], 6);
@@ -68,4 +67,3 @@ $.getJSON(OTHER_STATES_PATH, data =>{
 $.getJSON(CAL_BORDER_PATH, data =>{
     calBorderData = L.geoJson(data, {style: styleCalBorder}).addTo(map);
 });
-map.fitBounds(calBorderData.getBounds());
