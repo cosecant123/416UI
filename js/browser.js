@@ -37,7 +37,7 @@ function initListeners(){
     try{document.getElementById("rIslandRefreshButton").addEventListener("click", redirectHome);} catch (e){}
     document.getElementById("showCaliforniaButton").addEventListener("click", redirectCalPage);
     document.getElementById("showTexasButton").addEventListener("click", redirectTexasPage);
-    document.getElementById("showRIslandButton").addEventListener("click", redirectRIPage);
+    document.getElementById("showRhodeButton").addEventListener("click", redirectRIPage);
 }
 
 initListeners();
