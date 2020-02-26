@@ -4408,6 +4408,9 @@ L.tileLayer(
   }
 ).addTo(map);
 
+// remove zoom control UI
+$(".leaflet-control-zoom").css("visibility", "hidden");
+
 // setting boundaries so it only show united states
 var maxBounds = L.latLngBounds(
   L.latLng(25.837377, -124.327629), //Southwest
