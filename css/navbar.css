@@ -101,6 +101,6 @@ body {
   color: #1abc9c;
 }
 
-#refreshButton{
+#refreshButton, #calRefreshButton, #texasRefreshButton, #rIslandRefreshButton{
   margin-right: 130px;
 }
