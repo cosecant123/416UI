@@ -1,0 +1,102 @@
+/* Navbar */
+body {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.72222;
+  color: black;
+}
+.navbar-nav > li > a {
+  /* menu font color etc */
+  font-size: 14px;
+  padding: 15px 21px;
+  line-height: 23px;
+  font-weight: 700;
+}
+.navbar-inverse .navbar-nav > li > a {
+  /* menu text color */
+  color: #ffffff;
+}
+
+/* navbar inverse */
+.navbar-inverse {
+  background-color: #34495e;
+}
+.navbar {
+  font-size: 16px;
+  min-height: 53px;
+  margin-bottom: 5px;
+  border: none;
+  border-radius: 0px;
+}
+
+/* container fluid */
+.navbar .container-fluid {
+  padding-left: 50px;
+  padding-right: 0px;
+}
+
+/* navbar brand */
+.navbar-inverse .navbar-brand {
+  color: #ffffff;
+}
+.navbar-brand {
+  font-size: 20px;
+  line-height: 1.042;
+  height: 53px;
+  font-weight: 700;
+  padding: 17px 21px;
+}
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus {
+  color: #1abc9c;
+  background-color: transparent;
+}
+
+/* navbar hover effect */
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  background-color: transparent;
+  color: #1abc9c;
+}
+
+.navbar-inverse .navbar-btn {
+  color: #ffffff;
+  background-color: #1abc9c;
+}
+.navbar-btn {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+.btn {
+  border: none;
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 1.4;
+  border-radius: 4px;
+  padding: 10px 15px;
+  -webkit-font-smoothing: subpixel-antialiased;
+  transition: border 0.25s linear, color 0.25s linear,
+    background-color 0.25s linear;
+}
+
+/* Navbar top hbox */
+.navbar-tophbox {
+  margin-left: 50px;
+}
+
+/* Style undo buttons */
+.tools-btn-undo,
+.tools-btn-redo {
+  background-color: #34495e; /* Blue background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  margin-top: 11px;
+  font-size: 16px; /* Set a font size */
+  border-radius: 4px;
+  padding: 6px 10px;
+  line-height: 1.5;
+}
+.tools-btn-undo:hover,
+.tools-btn-redo:hover {
+  color: #1abc9c;
+}
