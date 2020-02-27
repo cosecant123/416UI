@@ -27,7 +27,7 @@ function redirectRIPage(){
 
 // resize map to always fit window size
 function resizeMap() {
-
+    map.options.minZoom = Math.min(5, Math.floor(5*(window.innerWidth/screen.width))+1);;
 }
 
 function initListeners(){
@@ -38,6 +38,8 @@ function initListeners(){
     document.getElementById("showCaliforniaButton").addEventListener("click", redirectCalPage);
     document.getElementById("showTexasButton").addEventListener("click", redirectTexasPage);
     document.getElementById("showRhodeButton").addEventListener("click", redirectRIPage);
+    setTimeout(function(){ map.invalidateSize()}, 200);
+    window.addEventListener("resize", resizeMap);
 }
 
 initListeners();
