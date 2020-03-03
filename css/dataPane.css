@@ -1,0 +1,18 @@
+.simplebar {
+  height: 92.5vh;
+  width: 33.7vw;
+  position: fixed;
+  border:1px solid rgb(2, 0, 0);
+  background-color: #343a40;
+  right: 0;
+  top: 0;
+  z-index: -1;
+  margin-top: 60px;
+  border-radius: 0.3em;
+}
+
+#title {
+  margin-top: 50px;
+  text-align: center;
+  color: white;
+}
