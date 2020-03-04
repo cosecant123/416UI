@@ -1,0 +1,7622 @@
+[
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Anderson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4630,
+    "totalvotes": 16655
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Anderson",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 11884,
+    "totalvotes": 16655
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Anderson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 141,
+    "totalvotes": 16655
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Andrews",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 790,
+    "totalvotes": 4629
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Andrews",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3816,
+    "totalvotes": 4629
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Andrews",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 23,
+    "totalvotes": 4629
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Angelina",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 9379,
+    "totalvotes": 29153
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Angelina",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 19569,
+    "totalvotes": 29153
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Angelina",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 205,
+    "totalvotes": 29153
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Aransas",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3006,
+    "totalvotes": 9778
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Aransas",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 6693,
+    "totalvotes": 9778
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Aransas",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 79,
+    "totalvotes": 9778
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Archer",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 740,
+    "totalvotes": 4365
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Archer",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3595,
+    "totalvotes": 4365
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Archer",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 30,
+    "totalvotes": 4365
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Armstrong",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 128,
+    "totalvotes": 990
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Armstrong",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 856,
+    "totalvotes": 990
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Armstrong",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 6,
+    "totalvotes": 990
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Atascosa",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4415,
+    "totalvotes": 9938
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Atascosa",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 5462,
+    "totalvotes": 9938
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Atascosa",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 61,
+    "totalvotes": 9938
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Austin",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2821,
+    "totalvotes": 11721
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Austin",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 8786,
+    "totalvotes": 11721
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Austin",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 114,
+    "totalvotes": 11721
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bailey",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 682,
+    "totalvotes": 2316
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bailey",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1618,
+    "totalvotes": 2316
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bailey",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 16,
+    "totalvotes": 2316
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bandera",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2250,
+    "totalvotes": 9297
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bandera",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 6935,
+    "totalvotes": 9297
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bandera",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 112,
+    "totalvotes": 9297
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bastrop",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 11687,
+    "totalvotes": 25918
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bastrop",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 13817,
+    "totalvotes": 25918
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bastrop",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 414,
+    "totalvotes": 25918
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Baylor",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 366,
+    "totalvotes": 1643
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Baylor",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1262,
+    "totalvotes": 1643
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Baylor",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 15,
+    "totalvotes": 1643
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bee",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3645,
+    "totalvotes": 8157
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bee",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 4471,
+    "totalvotes": 8157
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bee",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 41,
+    "totalvotes": 8157
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bell",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 40413,
+    "totalvotes": 90334
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bell",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 49242,
+    "totalvotes": 90334
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 679,
+    "totalvotes": 90334
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bexar",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 275527,
+    "totalvotes": 525715
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bexar",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 246275,
+    "totalvotes": 525715
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bexar",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 3913,
+    "totalvotes": 525715
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Blanco",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1467,
+    "totalvotes": 4939
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Blanco",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3418,
+    "totalvotes": 4939
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Blanco",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 54,
+    "totalvotes": 4939
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Borden",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 40,
+    "totalvotes": 361
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Borden",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 316,
+    "totalvotes": 361
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Borden",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 5,
+    "totalvotes": 361
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bosque",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1797,
+    "totalvotes": 7646
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bosque",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 5762,
+    "totalvotes": 7646
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bosque",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 87,
+    "totalvotes": 7646
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bowie",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 10815,
+    "totalvotes": 35186
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bowie",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 24162,
+    "totalvotes": 35186
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bowie",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 209,
+    "totalvotes": 35186
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brazoria",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 36480,
+    "totalvotes": 104940
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brazoria",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 67515,
+    "totalvotes": 104940
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brazoria",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 945,
+    "totalvotes": 104940
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brazos",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 20502,
+    "totalvotes": 58673
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brazos",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 37465,
+    "totalvotes": 58673
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brazos",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 706,
+    "totalvotes": 58673
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brewster",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1970,
+    "totalvotes": 3900
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brewster",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1855,
+    "totalvotes": 3900
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brewster",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 75,
+    "totalvotes": 3900
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Briscoe",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 205,
+    "totalvotes": 830
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Briscoe",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 617,
+    "totalvotes": 830
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Briscoe",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 8,
+    "totalvotes": 830
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brooks",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1747,
+    "totalvotes": 2309
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brooks",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 556,
+    "totalvotes": 2309
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brooks",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 6,
+    "totalvotes": 2309
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brown",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2822,
+    "totalvotes": 15015
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brown",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 12052,
+    "totalvotes": 15015
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brown",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 141,
+    "totalvotes": 15015
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Burleson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2053,
+    "totalvotes": 6665
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Burleson",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 4547,
+    "totalvotes": 6665
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Burleson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 65,
+    "totalvotes": 6665
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Burnet",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4608,
+    "totalvotes": 16893
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Burnet",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 12059,
+    "totalvotes": 16893
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Burnet",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 226,
+    "totalvotes": 16893
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Caldwell",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 5403,
+    "totalvotes": 11648
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Caldwell",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 6107,
+    "totalvotes": 11648
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Caldwell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 138,
+    "totalvotes": 11648
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Calhoun",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2729,
+    "totalvotes": 6879
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Calhoun",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 4106,
+    "totalvotes": 6879
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Calhoun",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 44,
+    "totalvotes": 6879
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Callahan",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1063,
+    "totalvotes": 5716
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Callahan",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 4589,
+    "totalvotes": 5716
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Callahan",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 64,
+    "totalvotes": 5716
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cameron",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 48480,
+    "totalvotes": 75657
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cameron",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 26671,
+    "totalvotes": 75657
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cameron",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 506,
+    "totalvotes": 75657
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Camp",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1734,
+    "totalvotes": 4567
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Camp",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 2798,
+    "totalvotes": 4567
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Camp",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 35,
+    "totalvotes": 4567
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Carson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 406,
+    "totalvotes": 2980
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Carson",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 2548,
+    "totalvotes": 2980
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Carson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 26,
+    "totalvotes": 2980
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cass",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3490,
+    "totalvotes": 11846
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cass",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 8279,
+    "totalvotes": 11846
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cass",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 77,
+    "totalvotes": 11846
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Castro",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 719,
+    "totalvotes": 2291
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Castro",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1562,
+    "totalvotes": 2291
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Castro",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 10,
+    "totalvotes": 2291
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Chambers",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3188,
+    "totalvotes": 13292
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Chambers",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 9988,
+    "totalvotes": 13292
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Chambers",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 116,
+    "totalvotes": 13292
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cherokee",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4610,
+    "totalvotes": 16417
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cherokee",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 11695,
+    "totalvotes": 16417
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cherokee",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 112,
+    "totalvotes": 16417
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Childress",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 497,
+    "totalvotes": 2296
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Childress",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1782,
+    "totalvotes": 2296
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Childress",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 17,
+    "totalvotes": 2296
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Clay",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1085,
+    "totalvotes": 5339
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Clay",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 4213,
+    "totalvotes": 5339
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Clay",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 41,
+    "totalvotes": 5339
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cochran",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 284,
+    "totalvotes": 1057
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cochran",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 758,
+    "totalvotes": 1057
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cochran",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 15,
+    "totalvotes": 1057
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coke",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 299,
+    "totalvotes": 1569
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coke",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1252,
+    "totalvotes": 1569
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coke",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 18,
+    "totalvotes": 1569
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coleman",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 643,
+    "totalvotes": 3702
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coleman",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3011,
+    "totalvotes": 3702
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coleman",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 48,
+    "totalvotes": 3702
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Collin",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 109047,
+    "totalvotes": 296583
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Collin",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 184897,
+    "totalvotes": 296583
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Collin",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 2639,
+    "totalvotes": 296583
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Collingsworth",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 234,
+    "totalvotes": 1195
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Collingsworth",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 943,
+    "totalvotes": 1195
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Collingsworth",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 18,
+    "totalvotes": 1195
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Colorado",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2508,
+    "totalvotes": 8353
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Colorado",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 5795,
+    "totalvotes": 8353
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Colorado",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 50,
+    "totalvotes": 8353
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Comal",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 12384,
+    "totalvotes": 48158
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Comal",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 35233,
+    "totalvotes": 48158
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Comal",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 541,
+    "totalvotes": 48158
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Comanche",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1334,
+    "totalvotes": 5217
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Comanche",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3813,
+    "totalvotes": 5217
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Comanche",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 70,
+    "totalvotes": 5217
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Concho",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 257,
+    "totalvotes": 1077
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Concho",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 807,
+    "totalvotes": 1077
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Concho",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 13,
+    "totalvotes": 1077
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cooke",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3051,
+    "totalvotes": 15032
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cooke",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 11871,
+    "totalvotes": 15032
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cooke",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 110,
+    "totalvotes": 15032
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coryell",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 6619,
+    "totalvotes": 18332
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coryell",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 11550,
+    "totalvotes": 18332
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coryell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 163,
+    "totalvotes": 18332
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cottle",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 187,
+    "totalvotes": 705
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cottle",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 509,
+    "totalvotes": 705
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cottle",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 9,
+    "totalvotes": 705
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crane",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 319,
+    "totalvotes": 1454
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crane",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1119,
+    "totalvotes": 1454
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crane",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 16,
+    "totalvotes": 1454
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crockett",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 512,
+    "totalvotes": 1545
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crockett",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1026,
+    "totalvotes": 1545
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crockett",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 7,
+    "totalvotes": 1545
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crosby",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 684,
+    "totalvotes": 1914
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crosby",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1221,
+    "totalvotes": 1914
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crosby",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 9,
+    "totalvotes": 1914
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Culberson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 492,
+    "totalvotes": 759
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Culberson",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 257,
+    "totalvotes": 759
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Culberson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 10,
+    "totalvotes": 759
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dallam",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 302,
+    "totalvotes": 1589
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dallam",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1269,
+    "totalvotes": 1589
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dallam",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 18,
+    "totalvotes": 1589
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dallas",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 422989,
+    "totalvotes": 738463
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dallas",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 310000,
+    "totalvotes": 738463
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dallas",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 5474,
+    "totalvotes": 738463
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dawson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1152,
+    "totalvotes": 4096
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dawson",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 2906,
+    "totalvotes": 4096
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dawson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 38,
+    "totalvotes": 4096
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Deaf Smith",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1247,
+    "totalvotes": 4744
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Deaf Smith",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3466,
+    "totalvotes": 4744
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Deaf Smith",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 31,
+    "totalvotes": 4744
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Delta",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 589,
+    "totalvotes": 2187
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Delta",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1580,
+    "totalvotes": 2187
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Delta",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 18,
+    "totalvotes": 2187
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Denton",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 91160,
+    "totalvotes": 243263
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Denton",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 149935,
+    "totalvotes": 243263
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Denton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 2168,
+    "totalvotes": 243263
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dewitt",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1716,
+    "totalvotes": 6626
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dewitt",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 4888,
+    "totalvotes": 6626
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dewitt",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 22,
+    "totalvotes": 6626
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dickens",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 234,
+    "totalvotes": 972
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dickens",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 730,
+    "totalvotes": 972
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dickens",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 8,
+    "totalvotes": 972
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dimmit",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2692,
+    "totalvotes": 3587
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dimmit",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 874,
+    "totalvotes": 3587
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dimmit",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 21,
+    "totalvotes": 3587
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Donley",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 291,
+    "totalvotes": 1690
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Donley",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1374,
+    "totalvotes": 1690
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Donley",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 25,
+    "totalvotes": 1690
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Duval",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3298,
+    "totalvotes": 4409
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Duval",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1076,
+    "totalvotes": 4409
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Duval",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 35,
+    "totalvotes": 4409
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Eastland",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1271,
+    "totalvotes": 6509
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Eastland",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 5165,
+    "totalvotes": 6509
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Eastland",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 73,
+    "totalvotes": 6509
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ector",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 9123,
+    "totalvotes": 35606
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ector",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 26199,
+    "totalvotes": 35606
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ector",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 284,
+    "totalvotes": 35606
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Edwards",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 346,
+    "totalvotes": 1035
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Edwards",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 673,
+    "totalvotes": 1035
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Edwards",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 16,
+    "totalvotes": 1035
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ellis",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 15333,
+    "totalvotes": 53853
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ellis",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 38078,
+    "totalvotes": 53853
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ellis",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 442,
+    "totalvotes": 53853
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "El Paso",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 122021,
+    "totalvotes": 185233
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "El Paso",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 61783,
+    "totalvotes": 185233
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "El Paso",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1429,
+    "totalvotes": 185233
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Erath",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3128,
+    "totalvotes": 14019
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Erath",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 10768,
+    "totalvotes": 14019
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Erath",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 123,
+    "totalvotes": 14019
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Falls",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2225,
+    "totalvotes": 5599
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Falls",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3328,
+    "totalvotes": 5599
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Falls",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 46,
+    "totalvotes": 5599
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fannin",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3464,
+    "totalvotes": 11694
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fannin",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 8092,
+    "totalvotes": 11694
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fannin",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 138,
+    "totalvotes": 11694
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fayette",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3014,
+    "totalvotes": 10714
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fayette",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 7582,
+    "totalvotes": 10714
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fayette",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 118,
+    "totalvotes": 10714
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fisher",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 687,
+    "totalvotes": 1784
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fisher",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1083,
+    "totalvotes": 1784
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fisher",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 14,
+    "totalvotes": 1784
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Floyd",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 730,
+    "totalvotes": 2521
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Floyd",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1784,
+    "totalvotes": 2521
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Floyd",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 7,
+    "totalvotes": 2521
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Foard",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 198,
+    "totalvotes": 538
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Foard",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 327,
+    "totalvotes": 538
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Foard",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 13,
+    "totalvotes": 538
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fort Bend",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 98368,
+    "totalvotes": 202822
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fort Bend",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 103206,
+    "totalvotes": 202822
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fort Bend",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1248,
+    "totalvotes": 202822
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Franklin",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1036,
+    "totalvotes": 4491
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Franklin",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3392,
+    "totalvotes": 4491
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Franklin",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 63,
+    "totalvotes": 4491
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Freestone",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2034,
+    "totalvotes": 7288
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Freestone",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 5205,
+    "totalvotes": 7288
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Freestone",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 49,
+    "totalvotes": 7288
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Frio",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2405,
+    "totalvotes": 4062
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Frio",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1644,
+    "totalvotes": 4062
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Frio",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 13,
+    "totalvotes": 4062
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gaines",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 650,
+    "totalvotes": 4067
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gaines",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3385,
+    "totalvotes": 4067
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gaines",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 32,
+    "totalvotes": 4067
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Galveston",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 41805,
+    "totalvotes": 105004
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Galveston",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 62258,
+    "totalvotes": 105004
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Galveston",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 941,
+    "totalvotes": 105004
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Garza",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 375,
+    "totalvotes": 1750
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Garza",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1356,
+    "totalvotes": 1750
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Garza",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 19,
+    "totalvotes": 1750
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gillespie",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2576,
+    "totalvotes": 12338
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gillespie",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 9563,
+    "totalvotes": 12338
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gillespie",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 199,
+    "totalvotes": 12338
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Glasscock",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 52,
+    "totalvotes": 557
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Glasscock",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 502,
+    "totalvotes": 557
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Glasscock",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 3,
+    "totalvotes": 557
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Goliad",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1329,
+    "totalvotes": 3655
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Goliad",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 2298,
+    "totalvotes": 3655
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Goliad",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 28,
+    "totalvotes": 3655
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gonzales",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2167,
+    "totalvotes": 6287
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gonzales",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 4076,
+    "totalvotes": 6287
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gonzales",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 44,
+    "totalvotes": 6287
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gray",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1153,
+    "totalvotes": 8133
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gray",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 6924,
+    "totalvotes": 8133
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gray",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 56,
+    "totalvotes": 8133
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Grayson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 13900,
+    "totalvotes": 45477
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Grayson",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 31136,
+    "totalvotes": 45477
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Grayson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 441,
+    "totalvotes": 45477
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gregg",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 13166,
+    "totalvotes": 42610
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gregg",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 29203,
+    "totalvotes": 42610
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gregg",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 241,
+    "totalvotes": 42610
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Grimes",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2704,
+    "totalvotes": 8322
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Grimes",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 5562,
+    "totalvotes": 8322
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Grimes",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 56,
+    "totalvotes": 8322
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Guadalupe",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 16156,
+    "totalvotes": 47461
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Guadalupe",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 30869,
+    "totalvotes": 47461
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Guadalupe",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 436,
+    "totalvotes": 47461
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hale",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2708,
+    "totalvotes": 9943
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hale",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 7171,
+    "totalvotes": 9943
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hale",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 64,
+    "totalvotes": 9943
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hall",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 324,
+    "totalvotes": 1264
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hall",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 930,
+    "totalvotes": 1264
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hall",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 10,
+    "totalvotes": 1264
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hamilton",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 863,
+    "totalvotes": 3778
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hamilton",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 2876,
+    "totalvotes": 3778
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hamilton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 39,
+    "totalvotes": 3778
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hansford",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 240,
+    "totalvotes": 2102
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hansford",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1847,
+    "totalvotes": 2102
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hansford",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 15,
+    "totalvotes": 2102
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hardeman",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 373,
+    "totalvotes": 1595
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hardeman",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1199,
+    "totalvotes": 1595
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hardeman",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 23,
+    "totalvotes": 1595
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hardin",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3939,
+    "totalvotes": 20702
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hardin",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 16603,
+    "totalvotes": 20702
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hardin",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 160,
+    "totalvotes": 20702
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Harris",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 590982,
+    "totalvotes": 1171472
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Harris",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 571883,
+    "totalvotes": 1171472
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Harris",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 8607,
+    "totalvotes": 1171472
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Harrison",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 8887,
+    "totalvotes": 26158
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Harrison",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 17103,
+    "totalvotes": 26158
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Harrison",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 168,
+    "totalvotes": 26158
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hartley",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 250,
+    "totalvotes": 1985
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hartley",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1711,
+    "totalvotes": 1985
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hartley",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 24,
+    "totalvotes": 1985
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Haskell",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 699,
+    "totalvotes": 2116
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Haskell",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1388,
+    "totalvotes": 2116
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Haskell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 29,
+    "totalvotes": 2116
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hays",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 28431,
+    "totalvotes": 59052
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hays",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 29638,
+    "totalvotes": 59052
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hays",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 983,
+    "totalvotes": 59052
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hemphill",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 216,
+    "totalvotes": 1570
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hemphill",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1345,
+    "totalvotes": 1570
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hemphill",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 9,
+    "totalvotes": 1570
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Henderson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 7913,
+    "totalvotes": 28993
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Henderson",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 20857,
+    "totalvotes": 28993
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Henderson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 223,
+    "totalvotes": 28993
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hidalgo",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 90261,
+    "totalvotes": 130784
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hidalgo",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 39668,
+    "totalvotes": 130784
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hidalgo",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 855,
+    "totalvotes": 130784
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hill",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3811,
+    "totalvotes": 13188
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hill",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 9264,
+    "totalvotes": 13188
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hill",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 113,
+    "totalvotes": 13188
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hockley",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1797,
+    "totalvotes": 7645
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hockley",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 5795,
+    "totalvotes": 7645
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hockley",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 53,
+    "totalvotes": 7645
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hood",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 5087,
+    "totalvotes": 22596
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hood",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 17299,
+    "totalvotes": 22596
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hood",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 210,
+    "totalvotes": 22596
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hopkins",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3530,
+    "totalvotes": 12919
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hopkins",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 9299,
+    "totalvotes": 12919
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hopkins",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 90,
+    "totalvotes": 12919
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Houston",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2656,
+    "totalvotes": 8624
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Houston",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 5872,
+    "totalvotes": 8624
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Houston",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 96,
+    "totalvotes": 8624
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Howard",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2545,
+    "totalvotes": 9689
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Howard",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 7029,
+    "totalvotes": 9689
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Howard",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 115,
+    "totalvotes": 9689
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hudspeth",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 430,
+    "totalvotes": 898
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hudspeth",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 458,
+    "totalvotes": 898
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hudspeth",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 10,
+    "totalvotes": 898
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hunt",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 8594,
+    "totalvotes": 29524
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hunt",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 20573,
+    "totalvotes": 29524
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hunt",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 357,
+    "totalvotes": 29524
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hutchinson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1322,
+    "totalvotes": 8761
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hutchinson",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 7361,
+    "totalvotes": 8761
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hutchinson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 78,
+    "totalvotes": 8761
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Irion",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 164,
+    "totalvotes": 817
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Irion",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 644,
+    "totalvotes": 817
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Irion",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 9,
+    "totalvotes": 817
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jack",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 470,
+    "totalvotes": 3023
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jack",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 2528,
+    "totalvotes": 3023
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jack",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 25,
+    "totalvotes": 3023
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jackson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1301,
+    "totalvotes": 5057
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jackson",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3723,
+    "totalvotes": 5057
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jackson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 33,
+    "totalvotes": 5057
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jasper",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3658,
+    "totalvotes": 12776
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jasper",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 9022,
+    "totalvotes": 12776
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jasper",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 96,
+    "totalvotes": 12776
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jeff Davis",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 468,
+    "totalvotes": 1236
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jeff Davis",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 749,
+    "totalvotes": 1236
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jeff Davis",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 19,
+    "totalvotes": 1236
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jefferson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 44888,
+    "totalvotes": 88296
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jefferson",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 42905,
+    "totalvotes": 88296
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jefferson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 503,
+    "totalvotes": 88296
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jim Hogg",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1336,
+    "totalvotes": 1815
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jim Hogg",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 472,
+    "totalvotes": 1815
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jim Hogg",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 7,
+    "totalvotes": 1815
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jim Wells",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 6706,
+    "totalvotes": 11612
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jim Wells",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 4841,
+    "totalvotes": 11612
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jim Wells",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 65,
+    "totalvotes": 11612
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Johnson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 12912,
+    "totalvotes": 50050
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Johnson",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 36685,
+    "totalvotes": 50050
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Johnson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 453,
+    "totalvotes": 50050
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jones",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1528,
+    "totalvotes": 5808
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jones",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 4203,
+    "totalvotes": 5808
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jones",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 77,
+    "totalvotes": 5808
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Karnes",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1760,
+    "totalvotes": 4527
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Karnes",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 2736,
+    "totalvotes": 4527
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Karnes",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 31,
+    "totalvotes": 4527
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kaufman",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 11161,
+    "totalvotes": 35145
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kaufman",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 23735,
+    "totalvotes": 35145
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kaufman",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 249,
+    "totalvotes": 35145
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kendall",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3599,
+    "totalvotes": 16746
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kendall",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 12971,
+    "totalvotes": 16746
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kendall",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 176,
+    "totalvotes": 16746
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kenedy",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 108,
+    "totalvotes": 202
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kenedy",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 94,
+    "totalvotes": 202
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kenedy",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 0,
+    "totalvotes": 202
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kent",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 99,
+    "totalvotes": 448
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kent",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 342,
+    "totalvotes": 448
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kent",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 7,
+    "totalvotes": 448
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kerr",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 5570,
+    "totalvotes": 22556
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kerr",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 16752,
+    "totalvotes": 22556
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kerr",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 234,
+    "totalvotes": 22556
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kimble",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 342,
+    "totalvotes": 1843
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kimble",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1487,
+    "totalvotes": 1843
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kimble",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 14,
+    "totalvotes": 1843
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "King",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 8,
+    "totalvotes": 163
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "King",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 151,
+    "totalvotes": 163
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "King",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 4,
+    "totalvotes": 163
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kinney",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 633,
+    "totalvotes": 1551
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kinney",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 907,
+    "totalvotes": 1551
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kinney",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 11,
+    "totalvotes": 1551
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kleberg",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 5256,
+    "totalvotes": 9876
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kleberg",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 4540,
+    "totalvotes": 9876
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kleberg",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 80,
+    "totalvotes": 9876
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Knox",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 367,
+    "totalvotes": 1368
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Knox",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 986,
+    "totalvotes": 1368
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Knox",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 15,
+    "totalvotes": 1368
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lamar",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 5243,
+    "totalvotes": 18362
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lamar",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 12952,
+    "totalvotes": 18362
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lamar",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 167,
+    "totalvotes": 18362
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lamb",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1156,
+    "totalvotes": 4525
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lamb",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3344,
+    "totalvotes": 4525
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lamb",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 25,
+    "totalvotes": 4525
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lampasas",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1903,
+    "totalvotes": 7634
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lampasas",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 5651,
+    "totalvotes": 7634
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lampasas",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 80,
+    "totalvotes": 7634
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "La Salle",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1052,
+    "totalvotes": 1776
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "La Salle",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 714,
+    "totalvotes": 1776
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "La Salle",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 10,
+    "totalvotes": 1776
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lavaca",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1869,
+    "totalvotes": 8223
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lavaca",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 6293,
+    "totalvotes": 8223
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lavaca",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 61,
+    "totalvotes": 8223
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lee",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2000,
+    "totalvotes": 6377
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lee",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 4312,
+    "totalvotes": 6377
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lee",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 65,
+    "totalvotes": 6377
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Leon",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1418,
+    "totalvotes": 7041
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Leon",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 5566,
+    "totalvotes": 7041
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Leon",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 57,
+    "totalvotes": 7041
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Liberty",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 5991,
+    "totalvotes": 21626
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Liberty",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 15448,
+    "totalvotes": 21626
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Liberty",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 187,
+    "totalvotes": 21626
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Limestone",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2516,
+    "totalvotes": 7652
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Limestone",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 5079,
+    "totalvotes": 7652
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Limestone",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 57,
+    "totalvotes": 7652
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lipscomb",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 155,
+    "totalvotes": 1256
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lipscomb",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1093,
+    "totalvotes": 1256
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lipscomb",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 8,
+    "totalvotes": 1256
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Live Oak",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1048,
+    "totalvotes": 4176
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Live Oak",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3095,
+    "totalvotes": 4176
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Live Oak",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 33,
+    "totalvotes": 4176
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Llano",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2250,
+    "totalvotes": 9629
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Llano",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 7281,
+    "totalvotes": 9629
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Llano",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 98,
+    "totalvotes": 9629
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Loving",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 12,
+    "totalvotes": 79
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Loving",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 67,
+    "totalvotes": 79
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Loving",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 0,
+    "totalvotes": 79
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lubbock",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 30486,
+    "totalvotes": 97534
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lubbock",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 66304,
+    "totalvotes": 97534
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lubbock",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 744,
+    "totalvotes": 97534
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lynn",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 627,
+    "totalvotes": 2116
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lynn",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1473,
+    "totalvotes": 2116
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lynn",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 16,
+    "totalvotes": 2116
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McCulloch",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 728,
+    "totalvotes": 3010
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McCulloch",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 2263,
+    "totalvotes": 3010
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McCulloch",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 19,
+    "totalvotes": 3010
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McLennan",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 29998,
+    "totalvotes": 79674
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McLennan",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 49044,
+    "totalvotes": 79674
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McLennan",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 632,
+    "totalvotes": 79674
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McMullen",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 132,
+    "totalvotes": 537
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McMullen",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 400,
+    "totalvotes": 537
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McMullen",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 5,
+    "totalvotes": 537
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Madison",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1146,
+    "totalvotes": 4074
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Madison",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 2891,
+    "totalvotes": 4074
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Madison",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 37,
+    "totalvotes": 4074
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Marion",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1644,
+    "totalvotes": 4252
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Marion",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 2567,
+    "totalvotes": 4252
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Marion",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 41,
+    "totalvotes": 4252
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Martin",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 314,
+    "totalvotes": 1715
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Martin",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1389,
+    "totalvotes": 1715
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Martin",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 12,
+    "totalvotes": 1715
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mason",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 546,
+    "totalvotes": 2121
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mason",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1544,
+    "totalvotes": 2121
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mason",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 31,
+    "totalvotes": 2121
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Matagorda",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4440,
+    "totalvotes": 12373
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Matagorda",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 7835,
+    "totalvotes": 12373
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Matagorda",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 98,
+    "totalvotes": 12373
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Maverick",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 8554,
+    "totalvotes": 10939
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Maverick",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 2316,
+    "totalvotes": 10939
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Maverick",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 69,
+    "totalvotes": 10939
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Medina",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 5147,
+    "totalvotes": 15737
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Medina",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 10480,
+    "totalvotes": 15737
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Medina",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 110,
+    "totalvotes": 15737
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Menard",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 295,
+    "totalvotes": 1018
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Menard",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 712,
+    "totalvotes": 1018
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Menard",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 11,
+    "totalvotes": 1018
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Midland",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 9691,
+    "totalvotes": 46216
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Midland",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 36155,
+    "totalvotes": 46216
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Midland",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 370,
+    "totalvotes": 46216
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Milam",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3044,
+    "totalvotes": 8357
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Milam",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 5217,
+    "totalvotes": 8357
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Milam",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 96,
+    "totalvotes": 8357
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mills",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 398,
+    "totalvotes": 2177
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mills",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1753,
+    "totalvotes": 2177
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mills",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 26,
+    "totalvotes": 2177
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mitchell",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 586,
+    "totalvotes": 2431
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mitchell",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1815,
+    "totalvotes": 2431
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mitchell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 30,
+    "totalvotes": 2431
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Montague",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1597,
+    "totalvotes": 7950
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Montague",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 6245,
+    "totalvotes": 7950
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Montague",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 108,
+    "totalvotes": 7950
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Montgomery",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 36703,
+    "totalvotes": 157847
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Montgomery",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 119884,
+    "totalvotes": 157847
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Montgomery",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1260,
+    "totalvotes": 157847
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Moore",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1123,
+    "totalvotes": 5437
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Moore",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 4282,
+    "totalvotes": 5437
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Moore",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 32,
+    "totalvotes": 5437
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Morris",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2055,
+    "totalvotes": 5248
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Morris",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3158,
+    "totalvotes": 5248
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Morris",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 35,
+    "totalvotes": 5248
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Motley",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 67,
+    "totalvotes": 594
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Motley",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 522,
+    "totalvotes": 594
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Motley",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 5,
+    "totalvotes": 594
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nacogdoches",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 8393,
+    "totalvotes": 23391
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nacogdoches",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 14828,
+    "totalvotes": 23391
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nacogdoches",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 170,
+    "totalvotes": 23391
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Navarro",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 5400,
+    "totalvotes": 16321
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Navarro",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 10810,
+    "totalvotes": 16321
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Navarro",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 111,
+    "totalvotes": 16321
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Newton",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1751,
+    "totalvotes": 5260
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Newton",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3446,
+    "totalvotes": 5260
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Newton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 63,
+    "totalvotes": 5260
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nolan",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1521,
+    "totalvotes": 5063
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nolan",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3485,
+    "totalvotes": 5063
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nolan",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 57,
+    "totalvotes": 5063
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nueces",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 47912,
+    "totalvotes": 101230
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nueces",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 52391,
+    "totalvotes": 101230
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nueces",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 927,
+    "totalvotes": 101230
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ochiltree",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 243,
+    "totalvotes": 3109
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ochiltree",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 2851,
+    "totalvotes": 3109
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ochiltree",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 15,
+    "totalvotes": 3109
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Oldham",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 102,
+    "totalvotes": 920
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Oldham",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 813,
+    "totalvotes": 920
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Oldham",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 5,
+    "totalvotes": 920
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Orange",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 7646,
+    "totalvotes": 29406
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Orange",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 21509,
+    "totalvotes": 29406
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Orange",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 251,
+    "totalvotes": 29406
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Palo Pinto",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2499,
+    "totalvotes": 9890
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Palo Pinto",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 7264,
+    "totalvotes": 9890
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Palo Pinto",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 127,
+    "totalvotes": 9890
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Panola",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2586,
+    "totalvotes": 10216
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Panola",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 7582,
+    "totalvotes": 10216
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Panola",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 48,
+    "totalvotes": 10216
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Parker",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 10502,
+    "totalvotes": 47951
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Parker",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 36974,
+    "totalvotes": 47951
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Parker",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 475,
+    "totalvotes": 47951
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Parmer",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 719,
+    "totalvotes": 3713
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Parmer",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 2969,
+    "totalvotes": 3713
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Parmer",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 25,
+    "totalvotes": 3713
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Pecos",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1476,
+    "totalvotes": 4010
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Pecos",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 2480,
+    "totalvotes": 4010
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Pecos",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 54,
+    "totalvotes": 4010
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Polk",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 6230,
+    "totalvotes": 20149
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Polk",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 13731,
+    "totalvotes": 20149
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Polk",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 188,
+    "totalvotes": 20149
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Potter",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 8939,
+    "totalvotes": 30013
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Potter",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 20761,
+    "totalvotes": 30013
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Potter",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 313,
+    "totalvotes": 30013
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Presidio",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1252,
+    "totalvotes": 1757
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Presidio",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 489,
+    "totalvotes": 1757
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Presidio",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 16,
+    "totalvotes": 1757
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rains",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1048,
+    "totalvotes": 4236
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rains",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3146,
+    "totalvotes": 4236
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rains",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 42,
+    "totalvotes": 4236
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Randall",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 9468,
+    "totalvotes": 51832
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Randall",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 41948,
+    "totalvotes": 51832
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Randall",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 416,
+    "totalvotes": 51832
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Reagan",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 197,
+    "totalvotes": 994
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Reagan",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 795,
+    "totalvotes": 994
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Reagan",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 2,
+    "totalvotes": 994
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Real",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 375,
+    "totalvotes": 1628
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Real",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1238,
+    "totalvotes": 1628
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Real",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 15,
+    "totalvotes": 1628
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Red River",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1539,
+    "totalvotes": 5052
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Red River",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3461,
+    "totalvotes": 5052
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Red River",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 52,
+    "totalvotes": 5052
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Reeves",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1606,
+    "totalvotes": 3077
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Reeves",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1445,
+    "totalvotes": 3077
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Reeves",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 26,
+    "totalvotes": 3077
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Refugio",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1382,
+    "totalvotes": 3261
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Refugio",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1855,
+    "totalvotes": 3261
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Refugio",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 24,
+    "totalvotes": 3261
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Roberts",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 41,
+    "totalvotes": 518
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Roberts",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 477,
+    "totalvotes": 518
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Roberts",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 0,
+    "totalvotes": 518
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Robertson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2675,
+    "totalvotes": 6710
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Robertson",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3980,
+    "totalvotes": 6710
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Robertson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 55,
+    "totalvotes": 6710
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rockwall",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 8492,
+    "totalvotes": 32066
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rockwall",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 23300,
+    "totalvotes": 32066
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rockwall",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 274,
+    "totalvotes": 32066
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Runnels",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 720,
+    "totalvotes": 3867
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Runnels",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3118,
+    "totalvotes": 3867
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Runnels",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 29,
+    "totalvotes": 3867
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rusk",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4983,
+    "totalvotes": 18722
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rusk",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 13646,
+    "totalvotes": 18722
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rusk",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 93,
+    "totalvotes": 18722
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sabine",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1077,
+    "totalvotes": 4874
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sabine",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3749,
+    "totalvotes": 4874
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sabine",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 48,
+    "totalvotes": 4874
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Augustine",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1328,
+    "totalvotes": 3715
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Augustine",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 2342,
+    "totalvotes": 3715
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Augustine",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 45,
+    "totalvotes": 3715
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Jacinto",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2721,
+    "totalvotes": 8958
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Jacinto",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 6151,
+    "totalvotes": 8958
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Jacinto",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 86,
+    "totalvotes": 8958
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Patricio",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 8854,
+    "totalvotes": 21396
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Patricio",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 12404,
+    "totalvotes": 21396
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Patricio",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 138,
+    "totalvotes": 21396
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Saba",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 487,
+    "totalvotes": 2457
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Saba",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1941,
+    "totalvotes": 2457
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Saba",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 29,
+    "totalvotes": 2457
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Schleicher",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 324,
+    "totalvotes": 1304
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Schleicher",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 970,
+    "totalvotes": 1304
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Schleicher",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 10,
+    "totalvotes": 1304
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Scurry",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1088,
+    "totalvotes": 5569
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Scurry",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 4414,
+    "totalvotes": 5569
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Scurry",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 67,
+    "totalvotes": 5569
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Shackelford",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 208,
+    "totalvotes": 1505
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Shackelford",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1284,
+    "totalvotes": 1505
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Shackelford",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 13,
+    "totalvotes": 1505
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Shelby",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2548,
+    "totalvotes": 9220
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Shelby",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 6630,
+    "totalvotes": 9220
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Shelby",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 42,
+    "totalvotes": 9220
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sherman",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 127,
+    "totalvotes": 1020
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sherman",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 884,
+    "totalvotes": 1020
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sherman",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 9,
+    "totalvotes": 1020
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Smith",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 23726,
+    "totalvotes": 79561
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Smith",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 55187,
+    "totalvotes": 79561
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Smith",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 648,
+    "totalvotes": 79561
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Somervell",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 799,
+    "totalvotes": 3533
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Somervell",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 2677,
+    "totalvotes": 3533
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Somervell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 57,
+    "totalvotes": 3533
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Starr",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 8274,
+    "totalvotes": 9792
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Starr",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1492,
+    "totalvotes": 9792
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Starr",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 26,
+    "totalvotes": 9792
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Stephens",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 626,
+    "totalvotes": 3526
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Stephens",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 2869,
+    "totalvotes": 3526
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Stephens",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 31,
+    "totalvotes": 3526
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sterling",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 97,
+    "totalvotes": 619
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sterling",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 520,
+    "totalvotes": 619
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sterling",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 2,
+    "totalvotes": 619
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Stonewall",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 206,
+    "totalvotes": 735
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Stonewall",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 524,
+    "totalvotes": 735
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Stonewall",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 5,
+    "totalvotes": 735
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sutton",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 381,
+    "totalvotes": 1578
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sutton",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1189,
+    "totalvotes": 1578
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sutton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 8,
+    "totalvotes": 1578
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Swisher",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 813,
+    "totalvotes": 2535
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Swisher",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1683,
+    "totalvotes": 2535
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Swisher",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 39,
+    "totalvotes": 2535
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tarrant",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 274880,
+    "totalvotes": 628553
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tarrant",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 348420,
+    "totalvotes": 628553
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tarrant",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 5253,
+    "totalvotes": 628553
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Taylor",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 12690,
+    "totalvotes": 47439
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Taylor",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 34317,
+    "totalvotes": 47439
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Taylor",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 432,
+    "totalvotes": 47439
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Terrell",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 186,
+    "totalvotes": 519
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Terrell",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 323,
+    "totalvotes": 519
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Terrell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 10,
+    "totalvotes": 519
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Terry",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1379,
+    "totalvotes": 4280
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Terry",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 2879,
+    "totalvotes": 4280
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Terry",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 22,
+    "totalvotes": 4280
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Throckmorton",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 166,
+    "totalvotes": 838
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Throckmorton",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 671,
+    "totalvotes": 838
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Throckmorton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1,
+    "totalvotes": 838
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Titus",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3145,
+    "totalvotes": 9245
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Titus",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 6028,
+    "totalvotes": 9245
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Titus",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 72,
+    "totalvotes": 9245
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tom Green",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 11158,
+    "totalvotes": 38861
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tom Green",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 27362,
+    "totalvotes": 38861
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tom Green",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 341,
+    "totalvotes": 38861
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Travis",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 254017,
+    "totalvotes": 397714
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Travis",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 136981,
+    "totalvotes": 397714
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Travis",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 6716,
+    "totalvotes": 397714
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Trinity",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1925,
+    "totalvotes": 6077
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Trinity",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 4095,
+    "totalvotes": 6077
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Trinity",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 57,
+    "totalvotes": 6077
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tyler",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2166,
+    "totalvotes": 7910
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tyler",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 5644,
+    "totalvotes": 7910
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tyler",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 100,
+    "totalvotes": 7910
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Upshur",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3790,
+    "totalvotes": 15164
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Upshur",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 11222,
+    "totalvotes": 15164
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Upshur",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 152,
+    "totalvotes": 15164
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Upton",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 288,
+    "totalvotes": 1197
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Upton",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 898,
+    "totalvotes": 1197
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Upton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 11,
+    "totalvotes": 1197
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Uvalde",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4126,
+    "totalvotes": 8766
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Uvalde",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 4590,
+    "totalvotes": 8766
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Uvalde",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 50,
+    "totalvotes": 8766
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Val Verde",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 6982,
+    "totalvotes": 12820
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Val Verde",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 5752,
+    "totalvotes": 12820
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Val Verde",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 86,
+    "totalvotes": 12820
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Van Zandt",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4505,
+    "totalvotes": 20395
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Van Zandt",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 15734,
+    "totalvotes": 20395
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Van Zandt",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 156,
+    "totalvotes": 20395
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Victoria",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 9832,
+    "totalvotes": 29931
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Victoria",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 19878,
+    "totalvotes": 29931
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Victoria",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 221,
+    "totalvotes": 29931
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Walker",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 7334,
+    "totalvotes": 19146
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Walker",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 11623,
+    "totalvotes": 19146
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Walker",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 189,
+    "totalvotes": 19146
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Waller",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 7153,
+    "totalvotes": 15508
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Waller",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 8265,
+    "totalvotes": 15508
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Waller",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 90,
+    "totalvotes": 15508
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ward",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 899,
+    "totalvotes": 3602
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ward",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 2667,
+    "totalvotes": 3602
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ward",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 36,
+    "totalvotes": 3602
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Washington",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4034,
+    "totalvotes": 14377
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Washington",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 10176,
+    "totalvotes": 14377
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Washington",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 167,
+    "totalvotes": 14377
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Webb",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 33452,
+    "totalvotes": 46821
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Webb",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 13119,
+    "totalvotes": 46821
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Webb",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 250,
+    "totalvotes": 46821
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wharton",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4937,
+    "totalvotes": 14418
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wharton",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 9431,
+    "totalvotes": 14418
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wharton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 50,
+    "totalvotes": 14418
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wheeler",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 314,
+    "totalvotes": 2245
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wheeler",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1918,
+    "totalvotes": 2245
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wheeler",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 13,
+    "totalvotes": 2245
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wichita",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 13868,
+    "totalvotes": 45982
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wichita",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 31731,
+    "totalvotes": 45982
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wichita",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 383,
+    "totalvotes": 45982
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wilbarger",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1196,
+    "totalvotes": 4509
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wilbarger",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 3283,
+    "totalvotes": 4509
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wilbarger",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 30,
+    "totalvotes": 4509
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Willacy",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3409,
+    "totalvotes": 4903
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Willacy",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1456,
+    "totalvotes": 4903
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Willacy",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 38,
+    "totalvotes": 4903
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Williamson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 67691,
+    "totalvotes": 158403
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Williamson",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 88323,
+    "totalvotes": 158403
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Williamson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 2389,
+    "totalvotes": 158403
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wilson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 5362,
+    "totalvotes": 16366
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wilson",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 10904,
+    "totalvotes": 16366
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wilson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 100,
+    "totalvotes": 16366
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Winkler",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 477,
+    "totalvotes": 2032
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Winkler",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1529,
+    "totalvotes": 2032
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Winkler",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 26,
+    "totalvotes": 2032
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wise",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4471,
+    "totalvotes": 20639
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wise",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 15973,
+    "totalvotes": 20639
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wise",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 195,
+    "totalvotes": 20639
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wood",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4010,
+    "totalvotes": 17784
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wood",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 13658,
+    "totalvotes": 17784
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wood",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 116,
+    "totalvotes": 17784
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Yoakum",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 450,
+    "totalvotes": 2458
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Yoakum",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 1989,
+    "totalvotes": 2458
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Yoakum",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 19,
+    "totalvotes": 2458
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Young",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1303,
+    "totalvotes": 7305
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Young",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 5942,
+    "totalvotes": 7305
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Young",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 60,
+    "totalvotes": 7305
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Zapata",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1939,
+    "totalvotes": 2866
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Zapata",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 919,
+    "totalvotes": 2866
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Zapata",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 8,
+    "totalvotes": 2866
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Zavala",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3263,
+    "totalvotes": 3876
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Zavala",
+    "candidate": "John McCain",
+    "party": "republican",
+    "candidatevotes": 596,
+    "totalvotes": 3876
+  },
+  {
+    "year": 2008,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Zavala",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 17,
+    "totalvotes": 3876
+  }
+]

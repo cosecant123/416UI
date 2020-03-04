@@ -1,0 +1,7622 @@
+[
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Anderson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3813,
+    "totalvotes": 16212
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Anderson",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 12262,
+    "totalvotes": 16212
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Anderson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 137,
+    "totalvotes": 16212
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Andrews",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 795,
+    "totalvotes": 4482
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Andrews",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3639,
+    "totalvotes": 4482
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Andrews",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 48,
+    "totalvotes": 4482
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Angelina",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 7834,
+    "totalvotes": 28406
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Angelina",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 20303,
+    "totalvotes": 28406
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Angelina",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 269,
+    "totalvotes": 28406
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Aransas",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2704,
+    "totalvotes": 9648
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Aransas",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 6830,
+    "totalvotes": 9648
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Aransas",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 114,
+    "totalvotes": 9648
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Archer",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 525,
+    "totalvotes": 4164
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Archer",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3600,
+    "totalvotes": 4164
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Archer",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 39,
+    "totalvotes": 4164
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Armstrong",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 98,
+    "totalvotes": 935
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Armstrong",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 828,
+    "totalvotes": 935
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Armstrong",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 9,
+    "totalvotes": 935
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Atascosa",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 5133,
+    "totalvotes": 12721
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Atascosa",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 7461,
+    "totalvotes": 12721
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Atascosa",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 127,
+    "totalvotes": 12721
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Austin",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2252,
+    "totalvotes": 11649
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Austin",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 9265,
+    "totalvotes": 11649
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Austin",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 132,
+    "totalvotes": 11649
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bailey",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 466,
+    "totalvotes": 1816
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bailey",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1339,
+    "totalvotes": 1816
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bailey",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 11,
+    "totalvotes": 1816
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bandera",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1864,
+    "totalvotes": 9448
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bandera",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 7426,
+    "totalvotes": 9448
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bandera",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 158,
+    "totalvotes": 9448
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bastrop",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 9864,
+    "totalvotes": 24481
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bastrop",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 14033,
+    "totalvotes": 24481
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bastrop",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 584,
+    "totalvotes": 24481
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Baylor",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 267,
+    "totalvotes": 1592
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Baylor",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1297,
+    "totalvotes": 1592
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Baylor",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 28,
+    "totalvotes": 1592
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bee",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3452,
+    "totalvotes": 7879
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bee",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 4356,
+    "totalvotes": 7879
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bee",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 71,
+    "totalvotes": 7879
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bell",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 35512,
+    "totalvotes": 86206
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bell",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 49574,
+    "totalvotes": 86206
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1120,
+    "totalvotes": 86206
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bexar",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 264856,
+    "totalvotes": 513681
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bexar",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 241617,
+    "totalvotes": 513681
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bexar",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 7208,
+    "totalvotes": 513681
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Blanco",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1220,
+    "totalvotes": 4973
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Blanco",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3638,
+    "totalvotes": 4973
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Blanco",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 115,
+    "totalvotes": 4973
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Borden",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 32,
+    "totalvotes": 363
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Borden",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 324,
+    "totalvotes": 363
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Borden",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 7,
+    "totalvotes": 363
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bosque",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1367,
+    "totalvotes": 7356
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bosque",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 5885,
+    "totalvotes": 7356
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bosque",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 104,
+    "totalvotes": 7356
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bowie",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 10196,
+    "totalvotes": 35404
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bowie",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 24869,
+    "totalvotes": 35404
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bowie",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 339,
+    "totalvotes": 35404
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brazoria",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 34421,
+    "totalvotes": 106739
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brazoria",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 70862,
+    "totalvotes": 106739
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brazoria",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1456,
+    "totalvotes": 106739
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brazos",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 17477,
+    "totalvotes": 55962
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brazos",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 37209,
+    "totalvotes": 55962
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brazos",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1276,
+    "totalvotes": 55962
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brewster",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1765,
+    "totalvotes": 3867
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brewster",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1976,
+    "totalvotes": 3867
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brewster",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 126,
+    "totalvotes": 3867
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Briscoe",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 117,
+    "totalvotes": 702
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Briscoe",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 578,
+    "totalvotes": 702
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Briscoe",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 7,
+    "totalvotes": 702
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brooks",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1886,
+    "totalvotes": 2403
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brooks",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 507,
+    "totalvotes": 2403
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brooks",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 10,
+    "totalvotes": 2403
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brown",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1904,
+    "totalvotes": 13947
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brown",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 11895,
+    "totalvotes": 13947
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brown",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 148,
+    "totalvotes": 13947
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Burleson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1705,
+    "totalvotes": 6456
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Burleson",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 4671,
+    "totalvotes": 6456
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Burleson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 80,
+    "totalvotes": 6456
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Burnet",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3674,
+    "totalvotes": 16796
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Burnet",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 12843,
+    "totalvotes": 16796
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Burnet",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 279,
+    "totalvotes": 16796
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Caldwell",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4791,
+    "totalvotes": 11068
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Caldwell",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 6021,
+    "totalvotes": 11068
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Caldwell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 256,
+    "totalvotes": 11068
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Calhoun",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2410,
+    "totalvotes": 6648
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Calhoun",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 4144,
+    "totalvotes": 6648
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Calhoun",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 94,
+    "totalvotes": 6648
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Callahan",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 751,
+    "totalvotes": 5197
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Callahan",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 4378,
+    "totalvotes": 5197
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Callahan",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 68,
+    "totalvotes": 5197
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cameron",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 49975,
+    "totalvotes": 76895
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cameron",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 26099,
+    "totalvotes": 76895
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cameron",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 821,
+    "totalvotes": 76895
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Camp",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1428,
+    "totalvotes": 4335
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Camp",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 2881,
+    "totalvotes": 4335
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Camp",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 26,
+    "totalvotes": 4335
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Carson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 292,
+    "totalvotes": 2778
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Carson",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 2451,
+    "totalvotes": 2778
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Carson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 35,
+    "totalvotes": 2778
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cass",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2924,
+    "totalvotes": 11788
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cass",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 8763,
+    "totalvotes": 11788
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cass",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 101,
+    "totalvotes": 11788
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Castro",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 630,
+    "totalvotes": 2119
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Castro",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1470,
+    "totalvotes": 2119
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Castro",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 19,
+    "totalvotes": 2119
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Chambers",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2790,
+    "totalvotes": 14735
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Chambers",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 11787,
+    "totalvotes": 14735
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Chambers",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 158,
+    "totalvotes": 14735
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cherokee",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3875,
+    "totalvotes": 16126
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cherokee",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 12094,
+    "totalvotes": 16126
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cherokee",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 157,
+    "totalvotes": 16126
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Childress",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 320,
+    "totalvotes": 1996
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Childress",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1665,
+    "totalvotes": 1996
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Childress",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 11,
+    "totalvotes": 1996
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Clay",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 740,
+    "totalvotes": 5057
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Clay",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 4266,
+    "totalvotes": 5057
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Clay",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 51,
+    "totalvotes": 5057
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cochran",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 256,
+    "totalvotes": 917
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cochran",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 649,
+    "totalvotes": 917
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cochran",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 12,
+    "totalvotes": 917
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coke",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 179,
+    "totalvotes": 1408
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coke",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1218,
+    "totalvotes": 1408
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coke",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 11,
+    "totalvotes": 1408
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coleman",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 442,
+    "totalvotes": 3492
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coleman",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3012,
+    "totalvotes": 3492
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coleman",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 38,
+    "totalvotes": 3492
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Collin",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 101415,
+    "totalvotes": 302821
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Collin",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 196888,
+    "totalvotes": 302821
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Collin",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 4518,
+    "totalvotes": 302821
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Collingsworth",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 177,
+    "totalvotes": 1150
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Collingsworth",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 962,
+    "totalvotes": 1150
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Collingsworth",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 11,
+    "totalvotes": 1150
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Colorado",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2029,
+    "totalvotes": 8117
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Colorado",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 6026,
+    "totalvotes": 8117
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Colorado",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 62,
+    "totalvotes": 8117
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Comal",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 11450,
+    "totalvotes": 51529
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Comal",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 39318,
+    "totalvotes": 51529
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Comal",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 761,
+    "totalvotes": 51529
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Comanche",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 890,
+    "totalvotes": 4906
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Comanche",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3944,
+    "totalvotes": 4906
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Comanche",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 72,
+    "totalvotes": 4906
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Concho",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 194,
+    "totalvotes": 1001
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Concho",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 793,
+    "totalvotes": 1001
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Concho",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 14,
+    "totalvotes": 1001
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cooke",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2246,
+    "totalvotes": 14351
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cooke",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 11951,
+    "totalvotes": 14351
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cooke",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 154,
+    "totalvotes": 14351
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coryell",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 5158,
+    "totalvotes": 16604
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coryell",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 11220,
+    "totalvotes": 16604
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coryell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 226,
+    "totalvotes": 16604
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cottle",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 180,
+    "totalvotes": 741
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cottle",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 555,
+    "totalvotes": 741
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cottle",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 6,
+    "totalvotes": 741
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crane",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 275,
+    "totalvotes": 1283
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crane",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 985,
+    "totalvotes": 1283
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crane",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 23,
+    "totalvotes": 1283
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crockett",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 480,
+    "totalvotes": 1457
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crockett",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 957,
+    "totalvotes": 1457
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crockett",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 20,
+    "totalvotes": 1457
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crosby",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 639,
+    "totalvotes": 1787
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crosby",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1132,
+    "totalvotes": 1787
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crosby",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 16,
+    "totalvotes": 1787
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Culberson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 568,
+    "totalvotes": 879
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Culberson",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 295,
+    "totalvotes": 879
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Culberson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 16,
+    "totalvotes": 879
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dallam",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 253,
+    "totalvotes": 1534
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dallam",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1248,
+    "totalvotes": 1534
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dallam",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 33,
+    "totalvotes": 1534
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dallas",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 405571,
+    "totalvotes": 710117
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dallas",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 295813,
+    "totalvotes": 710117
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dallas",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 8733,
+    "totalvotes": 710117
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dawson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1019,
+    "totalvotes": 3642
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dawson",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 2591,
+    "totalvotes": 3642
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dawson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 32,
+    "totalvotes": 3642
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Deaf Smith",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1239,
+    "totalvotes": 4309
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Deaf Smith",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3042,
+    "totalvotes": 4309
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Deaf Smith",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 28,
+    "totalvotes": 4309
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Delta",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 454,
+    "totalvotes": 2018
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Delta",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1524,
+    "totalvotes": 2018
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Delta",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 40,
+    "totalvotes": 2018
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Denton",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 80978,
+    "totalvotes": 242781
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Denton",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 157579,
+    "totalvotes": 242781
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Denton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 4224,
+    "totalvotes": 242781
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dewitt",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1467,
+    "totalvotes": 6638
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dewitt",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 5122,
+    "totalvotes": 6638
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dewitt",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 49,
+    "totalvotes": 6638
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dickens",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 216,
+    "totalvotes": 1019
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dickens",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 793,
+    "totalvotes": 1019
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dickens",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 10,
+    "totalvotes": 1019
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dimmit",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2141,
+    "totalvotes": 2917
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dimmit",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 762,
+    "totalvotes": 2917
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dimmit",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 14,
+    "totalvotes": 2917
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Donley",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 226,
+    "totalvotes": 1535
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Donley",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1287,
+    "totalvotes": 1535
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Donley",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 22,
+    "totalvotes": 1535
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Duval",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3331,
+    "totalvotes": 4344
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Duval",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 980,
+    "totalvotes": 4344
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Duval",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 33,
+    "totalvotes": 4344
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Eastland",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 970,
+    "totalvotes": 6495
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Eastland",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 5444,
+    "totalvotes": 6495
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Eastland",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 81,
+    "totalvotes": 6495
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ector",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 8118,
+    "totalvotes": 32513
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ector",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 24010,
+    "totalvotes": 32513
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ector",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 385,
+    "totalvotes": 32513
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Edwards",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 232,
+    "totalvotes": 884
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Edwards",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 642,
+    "totalvotes": 884
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Edwards",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 10,
+    "totalvotes": 884
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ellis",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 13881,
+    "totalvotes": 54151
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ellis",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 39574,
+    "totalvotes": 54151
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ellis",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 696,
+    "totalvotes": 54151
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "El Paso",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 112952,
+    "totalvotes": 172412
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "El Paso",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 57150,
+    "totalvotes": 172412
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "El Paso",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 2310,
+    "totalvotes": 172412
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Erath",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1965,
+    "totalvotes": 12473
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Erath",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 10329,
+    "totalvotes": 12473
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Erath",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 179,
+    "totalvotes": 12473
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Falls",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2033,
+    "totalvotes": 5434
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Falls",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3356,
+    "totalvotes": 5434
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Falls",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 45,
+    "totalvotes": 5434
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fannin",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2486,
+    "totalvotes": 10804
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fannin",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 8161,
+    "totalvotes": 10804
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fannin",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 157,
+    "totalvotes": 10804
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fayette",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2315,
+    "totalvotes": 10551
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fayette",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 8106,
+    "totalvotes": 10551
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fayette",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 130,
+    "totalvotes": 10551
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fisher",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 512,
+    "totalvotes": 1629
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fisher",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1094,
+    "totalvotes": 1629
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fisher",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 23,
+    "totalvotes": 1629
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Floyd",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 551,
+    "totalvotes": 2085
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Floyd",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1523,
+    "totalvotes": 2085
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Floyd",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 11,
+    "totalvotes": 2085
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Foard",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 140,
+    "totalvotes": 495
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Foard",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 348,
+    "totalvotes": 495
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Foard",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 7,
+    "totalvotes": 495
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fort Bend",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 101144,
+    "totalvotes": 219489
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fort Bend",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 116126,
+    "totalvotes": 219489
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fort Bend",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 2219,
+    "totalvotes": 219489
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Franklin",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 751,
+    "totalvotes": 4257
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Franklin",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3446,
+    "totalvotes": 4257
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Franklin",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 60,
+    "totalvotes": 4257
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Freestone",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1850,
+    "totalvotes": 7570
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Freestone",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 5646,
+    "totalvotes": 7570
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Freestone",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 74,
+    "totalvotes": 7570
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Frio",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2376,
+    "totalvotes": 3968
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Frio",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1559,
+    "totalvotes": 3968
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Frio",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 33,
+    "totalvotes": 3968
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gaines",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 535,
+    "totalvotes": 4066
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gaines",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3484,
+    "totalvotes": 4066
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gaines",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 47,
+    "totalvotes": 4066
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Galveston",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 39511,
+    "totalvotes": 110078
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Galveston",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 69059,
+    "totalvotes": 110078
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Galveston",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1508,
+    "totalvotes": 110078
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Garza",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 279,
+    "totalvotes": 1560
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Garza",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1263,
+    "totalvotes": 1560
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Garza",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 18,
+    "totalvotes": 1560
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gillespie",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2055,
+    "totalvotes": 12550
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gillespie",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 10306,
+    "totalvotes": 12550
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gillespie",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 189,
+    "totalvotes": 12550
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Glasscock",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 44,
+    "totalvotes": 578
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Glasscock",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 526,
+    "totalvotes": 578
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Glasscock",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 8,
+    "totalvotes": 578
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Goliad",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1127,
+    "totalvotes": 3458
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Goliad",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 2294,
+    "totalvotes": 3458
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Goliad",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 37,
+    "totalvotes": 3458
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gonzales",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1777,
+    "totalvotes": 6057
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gonzales",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 4216,
+    "totalvotes": 6057
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gonzales",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 64,
+    "totalvotes": 6057
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gray",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 886,
+    "totalvotes": 7389
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gray",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 6443,
+    "totalvotes": 7389
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gray",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 60,
+    "totalvotes": 7389
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Grayson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 10670,
+    "totalvotes": 42264
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Grayson",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 30936,
+    "totalvotes": 42264
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Grayson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 658,
+    "totalvotes": 42264
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gregg",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 12398,
+    "totalvotes": 41507
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gregg",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 28742,
+    "totalvotes": 41507
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gregg",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 367,
+    "totalvotes": 41507
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Grimes",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2339,
+    "totalvotes": 8601
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Grimes",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 6141,
+    "totalvotes": 8601
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Grimes",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 121,
+    "totalvotes": 8601
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Guadalupe",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 15744,
+    "totalvotes": 49514
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Guadalupe",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 33117,
+    "totalvotes": 49514
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Guadalupe",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 653,
+    "totalvotes": 49514
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hale",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2243,
+    "totalvotes": 8854
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hale",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 6490,
+    "totalvotes": 8854
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hale",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 121,
+    "totalvotes": 8854
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hall",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 265,
+    "totalvotes": 1109
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hall",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 832,
+    "totalvotes": 1109
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hall",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 12,
+    "totalvotes": 1109
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hamilton",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 591,
+    "totalvotes": 3552
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hamilton",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 2918,
+    "totalvotes": 3552
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hamilton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 43,
+    "totalvotes": 3552
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hansford",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 159,
+    "totalvotes": 1962
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hansford",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1788,
+    "totalvotes": 1962
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hansford",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 15,
+    "totalvotes": 1962
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hardeman",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 302,
+    "totalvotes": 1495
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hardeman",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1176,
+    "totalvotes": 1495
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hardeman",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 17,
+    "totalvotes": 1495
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hardin",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3359,
+    "totalvotes": 21297
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hardin",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 17746,
+    "totalvotes": 21297
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hardin",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 192,
+    "totalvotes": 21297
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Harris",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 587044,
+    "totalvotes": 1188585
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Harris",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 586073,
+    "totalvotes": 1188585
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Harris",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 15468,
+    "totalvotes": 1188585
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Harrison",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 8456,
+    "totalvotes": 26170
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Harrison",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 17512,
+    "totalvotes": 26170
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Harrison",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 202,
+    "totalvotes": 26170
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hartley",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 184,
+    "totalvotes": 1913
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hartley",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1708,
+    "totalvotes": 1913
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hartley",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 21,
+    "totalvotes": 1913
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Haskell",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 553,
+    "totalvotes": 2013
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Haskell",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1424,
+    "totalvotes": 2013
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Haskell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 36,
+    "totalvotes": 2013
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hays",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 25537,
+    "totalvotes": 59011
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hays",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 31661,
+    "totalvotes": 59011
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hays",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1813,
+    "totalvotes": 59011
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hemphill",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 192,
+    "totalvotes": 1509
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hemphill",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1298,
+    "totalvotes": 1509
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hemphill",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 19,
+    "totalvotes": 1509
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Henderson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 6106,
+    "totalvotes": 27627
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Henderson",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 21231,
+    "totalvotes": 27627
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Henderson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 290,
+    "totalvotes": 27627
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hidalgo",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 97969,
+    "totalvotes": 139159
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hidalgo",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 39865,
+    "totalvotes": 139159
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hidalgo",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1325,
+    "totalvotes": 139159
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hill",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2752,
+    "totalvotes": 12045
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hill",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 9132,
+    "totalvotes": 12045
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hill",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 161,
+    "totalvotes": 12045
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hockley",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1486,
+    "totalvotes": 7134
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hockley",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 5546,
+    "totalvotes": 7134
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hockley",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 102,
+    "totalvotes": 7134
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hood",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3843,
+    "totalvotes": 22535
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hood",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 18409,
+    "totalvotes": 22535
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hood",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 283,
+    "totalvotes": 22535
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hopkins",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2777,
+    "totalvotes": 12753
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hopkins",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 9836,
+    "totalvotes": 12753
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hopkins",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 140,
+    "totalvotes": 12753
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Houston",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2265,
+    "totalvotes": 8214
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Houston",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 5880,
+    "totalvotes": 8214
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Houston",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 69,
+    "totalvotes": 8214
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Howard",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2110,
+    "totalvotes": 8695
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Howard",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 6453,
+    "totalvotes": 8695
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Howard",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 132,
+    "totalvotes": 8695
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hudspeth",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 379,
+    "totalvotes": 863
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hudspeth",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 471,
+    "totalvotes": 863
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hudspeth",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 13,
+    "totalvotes": 863
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hunt",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 6671,
+    "totalvotes": 28049
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hunt",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 21011,
+    "totalvotes": 28049
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hunt",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 367,
+    "totalvotes": 28049
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hutchinson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1045,
+    "totalvotes": 7928
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hutchinson",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 6804,
+    "totalvotes": 7928
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hutchinson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 79,
+    "totalvotes": 7928
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Irion",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 112,
+    "totalvotes": 788
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Irion",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 668,
+    "totalvotes": 788
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Irion",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 8,
+    "totalvotes": 788
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jack",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 303,
+    "totalvotes": 2908
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jack",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 2580,
+    "totalvotes": 2908
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jack",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 25,
+    "totalvotes": 2908
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jackson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1070,
+    "totalvotes": 5025
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jackson",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3906,
+    "totalvotes": 5025
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jackson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 49,
+    "totalvotes": 5025
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jasper",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3423,
+    "totalvotes": 13517
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jasper",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 9957,
+    "totalvotes": 13517
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jasper",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 137,
+    "totalvotes": 13517
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jeff Davis",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 440,
+    "totalvotes": 1192
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jeff Davis",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 719,
+    "totalvotes": 1192
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jeff Davis",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 33,
+    "totalvotes": 1192
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jefferson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 44668,
+    "totalvotes": 88627
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jefferson",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 43242,
+    "totalvotes": 88627
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jefferson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 717,
+    "totalvotes": 88627
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jim Hogg",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1301,
+    "totalvotes": 1667
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jim Hogg",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 356,
+    "totalvotes": 1667
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jim Hogg",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 10,
+    "totalvotes": 1667
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jim Wells",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 6492,
+    "totalvotes": 11166
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jim Wells",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 4598,
+    "totalvotes": 11166
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jim Wells",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 76,
+    "totalvotes": 11166
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Johnson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 10496,
+    "totalvotes": 48838
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Johnson",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 37661,
+    "totalvotes": 48838
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Johnson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 681,
+    "totalvotes": 48838
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jones",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1226,
+    "totalvotes": 5567
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jones",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 4262,
+    "totalvotes": 5567
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jones",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 79,
+    "totalvotes": 5567
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Karnes",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1325,
+    "totalvotes": 4185
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Karnes",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 2825,
+    "totalvotes": 4185
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Karnes",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 35,
+    "totalvotes": 4185
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kaufman",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 9472,
+    "totalvotes": 34670
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kaufman",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 24846,
+    "totalvotes": 34670
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kaufman",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 352,
+    "totalvotes": 34670
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kendall",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3043,
+    "totalvotes": 17783
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kendall",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 14508,
+    "totalvotes": 17783
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kendall",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 232,
+    "totalvotes": 17783
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kenedy",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 82,
+    "totalvotes": 167
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kenedy",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 84,
+    "totalvotes": 167
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kenedy",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1,
+    "totalvotes": 167
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kent",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 66,
+    "totalvotes": 405
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kent",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 335,
+    "totalvotes": 405
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kent",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 4,
+    "totalvotes": 405
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kerr",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4338,
+    "totalvotes": 21879
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kerr",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 17274,
+    "totalvotes": 21879
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kerr",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 267,
+    "totalvotes": 21879
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kimble",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 217,
+    "totalvotes": 1892
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kimble",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1667,
+    "totalvotes": 1892
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kimble",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 8,
+    "totalvotes": 1892
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "King",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 5,
+    "totalvotes": 145
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "King",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 139,
+    "totalvotes": 145
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "King",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1,
+    "totalvotes": 145
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kinney",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 522,
+    "totalvotes": 1425
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kinney",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 880,
+    "totalvotes": 1425
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kinney",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 23,
+    "totalvotes": 1425
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kleberg",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4754,
+    "totalvotes": 8907
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kleberg",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 4058,
+    "totalvotes": 8907
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kleberg",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 95,
+    "totalvotes": 8907
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Knox",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 332,
+    "totalvotes": 1510
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Knox",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1160,
+    "totalvotes": 1510
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Knox",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 18,
+    "totalvotes": 1510
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lamar",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4181,
+    "totalvotes": 17197
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lamar",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 12826,
+    "totalvotes": 17197
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lamar",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 190,
+    "totalvotes": 17197
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lamb",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 998,
+    "totalvotes": 4091
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lamb",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3058,
+    "totalvotes": 4091
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lamb",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 35,
+    "totalvotes": 4091
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lampasas",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1479,
+    "totalvotes": 7204
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lampasas",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 5621,
+    "totalvotes": 7204
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lampasas",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 104,
+    "totalvotes": 7204
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "La Salle",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 965,
+    "totalvotes": 1646
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "La Salle",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 669,
+    "totalvotes": 1646
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "La Salle",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 12,
+    "totalvotes": 1646
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lavaca",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1428,
+    "totalvotes": 8294
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lavaca",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 6796,
+    "totalvotes": 8294
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lavaca",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 70,
+    "totalvotes": 8294
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lee",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1632,
+    "totalvotes": 6221
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lee",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 4507,
+    "totalvotes": 6221
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lee",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 82,
+    "totalvotes": 6221
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Leon",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1062,
+    "totalvotes": 6945
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Leon",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 5814,
+    "totalvotes": 6945
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Leon",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 69,
+    "totalvotes": 6945
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Liberty",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 5202,
+    "totalvotes": 22746
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Liberty",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 17323,
+    "totalvotes": 22746
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Liberty",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 221,
+    "totalvotes": 22746
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Limestone",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2208,
+    "totalvotes": 7563
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Limestone",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 5288,
+    "totalvotes": 7563
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Limestone",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 67,
+    "totalvotes": 7563
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lipscomb",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 119,
+    "totalvotes": 1168
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lipscomb",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1044,
+    "totalvotes": 1168
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lipscomb",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 5,
+    "totalvotes": 1168
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Live Oak",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 919,
+    "totalvotes": 4113
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Live Oak",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3154,
+    "totalvotes": 4113
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Live Oak",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 40,
+    "totalvotes": 4113
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Llano",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1822,
+    "totalvotes": 9558
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Llano",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 7610,
+    "totalvotes": 9558
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Llano",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 126,
+    "totalvotes": 9558
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Loving",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 9,
+    "totalvotes": 64
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Loving",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 54,
+    "totalvotes": 64
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Loving",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1,
+    "totalvotes": 64
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lubbock",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 26271,
+    "totalvotes": 91184
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lubbock",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 63469,
+    "totalvotes": 91184
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lubbock",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1444,
+    "totalvotes": 91184
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lynn",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 506,
+    "totalvotes": 1959
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lynn",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1439,
+    "totalvotes": 1959
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lynn",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 14,
+    "totalvotes": 1959
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McCulloch",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 537,
+    "totalvotes": 2993
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McCulloch",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 2419,
+    "totalvotes": 2993
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McCulloch",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 37,
+    "totalvotes": 2993
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McLennan",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 25694,
+    "totalvotes": 74541
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McLennan",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 47903,
+    "totalvotes": 74541
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McLennan",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 944,
+    "totalvotes": 74541
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McMullen",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 67,
+    "totalvotes": 503
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McMullen",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 431,
+    "totalvotes": 503
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McMullen",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 5,
+    "totalvotes": 503
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Madison",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 967,
+    "totalvotes": 4028
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Madison",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3028,
+    "totalvotes": 4028
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Madison",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 33,
+    "totalvotes": 4028
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Marion",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1495,
+    "totalvotes": 4282
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Marion",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 2733,
+    "totalvotes": 4282
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Marion",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 54,
+    "totalvotes": 4282
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Martin",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 248,
+    "totalvotes": 1624
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Martin",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1368,
+    "totalvotes": 1624
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Martin",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 8,
+    "totalvotes": 1624
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mason",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 380,
+    "totalvotes": 1968
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mason",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1565,
+    "totalvotes": 1968
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mason",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 23,
+    "totalvotes": 1968
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Matagorda",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3980,
+    "totalvotes": 12133
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Matagorda",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 8040,
+    "totalvotes": 12133
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Matagorda",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 113,
+    "totalvotes": 12133
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Maverick",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 8303,
+    "totalvotes": 10563
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Maverick",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 2171,
+    "totalvotes": 10563
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Maverick",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 89,
+    "totalvotes": 10563
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Medina",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4784,
+    "totalvotes": 16049
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Medina",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 11079,
+    "totalvotes": 16049
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Medina",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 186,
+    "totalvotes": 16049
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Menard",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 171,
+    "totalvotes": 849
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Menard",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 665,
+    "totalvotes": 849
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Menard",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 13,
+    "totalvotes": 849
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Midland",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 8286,
+    "totalvotes": 44597
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Midland",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 35689,
+    "totalvotes": 44597
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Midland",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 622,
+    "totalvotes": 44597
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Milam",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2636,
+    "totalvotes": 8230
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Milam",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 5481,
+    "totalvotes": 8230
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Milam",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 113,
+    "totalvotes": 8230
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mills",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 279,
+    "totalvotes": 2201
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mills",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1882,
+    "totalvotes": 2201
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mills",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 40,
+    "totalvotes": 2201
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mitchell",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 538,
+    "totalvotes": 2316
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mitchell",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1756,
+    "totalvotes": 2316
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mitchell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 22,
+    "totalvotes": 2316
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Montague",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1116,
+    "totalvotes": 7751
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Montague",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 6549,
+    "totalvotes": 7751
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Montague",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 86,
+    "totalvotes": 7751
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Montgomery",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 32920,
+    "totalvotes": 173113
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Montgomery",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 137969,
+    "totalvotes": 173113
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Montgomery",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 2224,
+    "totalvotes": 173113
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Moore",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 964,
+    "totalvotes": 4985
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Moore",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3968,
+    "totalvotes": 4985
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Moore",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 53,
+    "totalvotes": 4985
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Morris",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1858,
+    "totalvotes": 5139
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Morris",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3232,
+    "totalvotes": 5139
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Morris",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 49,
+    "totalvotes": 5139
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Motley",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 55,
+    "totalvotes": 600
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Motley",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 538,
+    "totalvotes": 600
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Motley",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 7,
+    "totalvotes": 600
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nacogdoches",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 6465,
+    "totalvotes": 20653
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nacogdoches",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 13925,
+    "totalvotes": 20653
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nacogdoches",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 263,
+    "totalvotes": 20653
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Navarro",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4350,
+    "totalvotes": 15364
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Navarro",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 10847,
+    "totalvotes": 15364
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Navarro",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 167,
+    "totalvotes": 15364
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Newton",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1677,
+    "totalvotes": 5869
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Newton",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 4112,
+    "totalvotes": 5869
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Newton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 80,
+    "totalvotes": 5869
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nolan",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1216,
+    "totalvotes": 4575
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nolan",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3282,
+    "totalvotes": 4575
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nolan",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 77,
+    "totalvotes": 4575
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nueces",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 45772,
+    "totalvotes": 96104
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nueces",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 48966,
+    "totalvotes": 96104
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nueces",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1366,
+    "totalvotes": 96104
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ochiltree",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 253,
+    "totalvotes": 2993
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ochiltree",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 2719,
+    "totalvotes": 2993
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ochiltree",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 21,
+    "totalvotes": 2993
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Oldham",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 71,
+    "totalvotes": 869
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Oldham",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 790,
+    "totalvotes": 869
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Oldham",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 8,
+    "totalvotes": 869
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Orange",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 6800,
+    "totalvotes": 30518
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Orange",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 23366,
+    "totalvotes": 30518
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Orange",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 352,
+    "totalvotes": 30518
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Palo Pinto",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1811,
+    "totalvotes": 9337
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Palo Pinto",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 7393,
+    "totalvotes": 9337
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Palo Pinto",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 133,
+    "totalvotes": 9337
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Panola",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2211,
+    "totalvotes": 10230
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Panola",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 7950,
+    "totalvotes": 10230
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Panola",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 69,
+    "totalvotes": 10230
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Parker",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 7853,
+    "totalvotes": 47694
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Parker",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 39243,
+    "totalvotes": 47694
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Parker",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 598,
+    "totalvotes": 47694
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Parmer",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 529,
+    "totalvotes": 2554
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Parmer",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 2011,
+    "totalvotes": 2554
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Parmer",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 14,
+    "totalvotes": 2554
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Pecos",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1591,
+    "totalvotes": 4150
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Pecos",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 2512,
+    "totalvotes": 4150
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Pecos",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 47,
+    "totalvotes": 4150
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Polk",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4859,
+    "totalvotes": 19134
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Polk",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 14071,
+    "totalvotes": 19134
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Polk",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 204,
+    "totalvotes": 19134
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Potter",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 7126,
+    "totalvotes": 26450
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Potter",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 18918,
+    "totalvotes": 26450
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Potter",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 406,
+    "totalvotes": 26450
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Presidio",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1282,
+    "totalvotes": 1817
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Presidio",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 504,
+    "totalvotes": 1817
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Presidio",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 31,
+    "totalvotes": 1817
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rains",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 761,
+    "totalvotes": 4087
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rains",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3279,
+    "totalvotes": 4087
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rains",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 47,
+    "totalvotes": 4087
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Randall",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 7574,
+    "totalvotes": 49696
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Randall",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 41447,
+    "totalvotes": 49696
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Randall",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 675,
+    "totalvotes": 49696
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Reagan",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 158,
+    "totalvotes": 843
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Reagan",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 676,
+    "totalvotes": 843
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Reagan",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 9,
+    "totalvotes": 843
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Real",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 277,
+    "totalvotes": 1535
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Real",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1236,
+    "totalvotes": 1535
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Real",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 22,
+    "totalvotes": 1535
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Red River",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1482,
+    "totalvotes": 5074
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Red River",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3549,
+    "totalvotes": 5074
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Red River",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 43,
+    "totalvotes": 5074
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Reeves",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1655,
+    "totalvotes": 2877
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Reeves",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1188,
+    "totalvotes": 2877
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Reeves",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 34,
+    "totalvotes": 2877
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Refugio",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 998,
+    "totalvotes": 2677
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Refugio",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1663,
+    "totalvotes": 2677
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Refugio",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 16,
+    "totalvotes": 2677
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Roberts",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 33,
+    "totalvotes": 508
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Roberts",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 468,
+    "totalvotes": 508
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Roberts",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 7,
+    "totalvotes": 508
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Robertson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2798,
+    "totalvotes": 7287
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Robertson",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 4419,
+    "totalvotes": 7287
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Robertson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 70,
+    "totalvotes": 7287
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rockwall",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 8120,
+    "totalvotes": 35678
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rockwall",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 27113,
+    "totalvotes": 35678
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rockwall",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 445,
+    "totalvotes": 35678
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Runnels",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 519,
+    "totalvotes": 3668
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Runnels",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3104,
+    "totalvotes": 3668
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Runnels",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 45,
+    "totalvotes": 3668
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rusk",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4451,
+    "totalvotes": 18546
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rusk",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 13924,
+    "totalvotes": 18546
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rusk",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 171,
+    "totalvotes": 18546
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sabine",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 807,
+    "totalvotes": 4578
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sabine",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 3727,
+    "totalvotes": 4578
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sabine",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 44,
+    "totalvotes": 4578
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Augustine",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1193,
+    "totalvotes": 3690
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Augustine",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 2469,
+    "totalvotes": 3690
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Augustine",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 28,
+    "totalvotes": 3690
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Jacinto",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2410,
+    "totalvotes": 9616
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Jacinto",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 7107,
+    "totalvotes": 9616
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Jacinto",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 99,
+    "totalvotes": 9616
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Patricio",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 7856,
+    "totalvotes": 20078
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Patricio",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 12005,
+    "totalvotes": 20078
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Patricio",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 217,
+    "totalvotes": 20078
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Saba",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 323,
+    "totalvotes": 2259
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Saba",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1905,
+    "totalvotes": 2259
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Saba",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 31,
+    "totalvotes": 2259
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Schleicher",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 221,
+    "totalvotes": 1017
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Schleicher",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 787,
+    "totalvotes": 1017
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Schleicher",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 9,
+    "totalvotes": 1017
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Scurry",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 838,
+    "totalvotes": 5027
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Scurry",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 4124,
+    "totalvotes": 5027
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Scurry",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 65,
+    "totalvotes": 5027
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Shackelford",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 131,
+    "totalvotes": 1363
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Shackelford",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1218,
+    "totalvotes": 1363
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Shackelford",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 14,
+    "totalvotes": 1363
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Shelby",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2322,
+    "totalvotes": 9284
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Shelby",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 6879,
+    "totalvotes": 9284
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Shelby",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 83,
+    "totalvotes": 9284
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sherman",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 121,
+    "totalvotes": 1038
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sherman",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 908,
+    "totalvotes": 1038
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sherman",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 9,
+    "totalvotes": 1038
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Smith",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 21456,
+    "totalvotes": 79601
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Smith",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 57331,
+    "totalvotes": 79601
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Smith",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 814,
+    "totalvotes": 79601
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Somervell",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 613,
+    "totalvotes": 3538
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Somervell",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 2871,
+    "totalvotes": 3538
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Somervell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 54,
+    "totalvotes": 3538
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Starr",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 10260,
+    "totalvotes": 11883
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Starr",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1547,
+    "totalvotes": 11883
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Starr",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 76,
+    "totalvotes": 11883
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Stephens",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 475,
+    "totalvotes": 3412
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Stephens",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 2892,
+    "totalvotes": 3412
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Stephens",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 45,
+    "totalvotes": 3412
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sterling",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 31,
+    "totalvotes": 494
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sterling",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 459,
+    "totalvotes": 494
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sterling",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 4,
+    "totalvotes": 494
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Stonewall",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 160,
+    "totalvotes": 675
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Stonewall",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 507,
+    "totalvotes": 675
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Stonewall",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 8,
+    "totalvotes": 675
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sutton",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 369,
+    "totalvotes": 1489
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sutton",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1110,
+    "totalvotes": 1489
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sutton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 10,
+    "totalvotes": 1489
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Swisher",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 579,
+    "totalvotes": 2270
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Swisher",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1655,
+    "totalvotes": 2270
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Swisher",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 36,
+    "totalvotes": 2270
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tarrant",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 253071,
+    "totalvotes": 610890
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tarrant",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 348920,
+    "totalvotes": 610890
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tarrant",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 8899,
+    "totalvotes": 610890
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Taylor",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 9750,
+    "totalvotes": 43263
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Taylor",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 32904,
+    "totalvotes": 43263
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Taylor",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 609,
+    "totalvotes": 43263
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Terrell",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 184,
+    "totalvotes": 555
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Terrell",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 358,
+    "totalvotes": 555
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Terrell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 13,
+    "totalvotes": 555
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Terry",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1059,
+    "totalvotes": 3709
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Terry",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 2602,
+    "totalvotes": 3709
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Terry",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 48,
+    "totalvotes": 3709
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Throckmorton",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 109,
+    "totalvotes": 813
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Throckmorton",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 700,
+    "totalvotes": 813
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Throckmorton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 4,
+    "totalvotes": 813
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Titus",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2648,
+    "totalvotes": 8854
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Titus",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 6084,
+    "totalvotes": 8854
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Titus",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 122,
+    "totalvotes": 8854
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tom Green",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 9294,
+    "totalvotes": 36720
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tom Green",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 26878,
+    "totalvotes": 36720
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tom Green",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 548,
+    "totalvotes": 36720
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Travis",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 232788,
+    "totalvotes": 387057
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Travis",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 140152,
+    "totalvotes": 387057
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Travis",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 14117,
+    "totalvotes": 387057
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Trinity",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1614,
+    "totalvotes": 6235
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Trinity",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 4537,
+    "totalvotes": 6235
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Trinity",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 84,
+    "totalvotes": 6235
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tyler",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 1668,
+    "totalvotes": 7654
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tyler",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 5910,
+    "totalvotes": 7654
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tyler",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 76,
+    "totalvotes": 7654
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Upshur",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2971,
+    "totalvotes": 15138
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Upshur",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 12015,
+    "totalvotes": 15138
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Upshur",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 152,
+    "totalvotes": 15138
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Upton",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 333,
+    "totalvotes": 1300
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Upton",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 953,
+    "totalvotes": 1300
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Upton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 14,
+    "totalvotes": 1300
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Uvalde",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3825,
+    "totalvotes": 8435
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Uvalde",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 4529,
+    "totalvotes": 8435
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Uvalde",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 81,
+    "totalvotes": 8435
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Val Verde",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 6285,
+    "totalvotes": 12081
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Val Verde",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 5635,
+    "totalvotes": 12081
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Val Verde",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 161,
+    "totalvotes": 12081
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Van Zandt",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3084,
+    "totalvotes": 19100
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Van Zandt",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 15794,
+    "totalvotes": 19100
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Van Zandt",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 222,
+    "totalvotes": 19100
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Victoria",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 8802,
+    "totalvotes": 28853
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Victoria",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 19692,
+    "totalvotes": 28853
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Victoria",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 359,
+    "totalvotes": 28853
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Walker",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 6252,
+    "totalvotes": 18685
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Walker",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 12140,
+    "totalvotes": 18685
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Walker",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 293,
+    "totalvotes": 18685
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Waller",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 6514,
+    "totalvotes": 15902
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Waller",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 9244,
+    "totalvotes": 15902
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Waller",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 144,
+    "totalvotes": 15902
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ward",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 841,
+    "totalvotes": 3245
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ward",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 2366,
+    "totalvotes": 3245
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ward",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 38,
+    "totalvotes": 3245
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Washington",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3381,
+    "totalvotes": 14397
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Washington",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 10857,
+    "totalvotes": 14397
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Washington",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 159,
+    "totalvotes": 14397
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Webb",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 37597,
+    "totalvotes": 49110
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Webb",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 11078,
+    "totalvotes": 49110
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Webb",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 435,
+    "totalvotes": 49110
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wharton",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4235,
+    "totalvotes": 14087
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wharton",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 9750,
+    "totalvotes": 14087
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wharton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 102,
+    "totalvotes": 14087
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wheeler",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 232,
+    "totalvotes": 2128
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wheeler",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1878,
+    "totalvotes": 2128
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wheeler",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 18,
+    "totalvotes": 2128
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wichita",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 10525,
+    "totalvotes": 41018
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wichita",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 29812,
+    "totalvotes": 41018
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wichita",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 681,
+    "totalvotes": 41018
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wilbarger",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 971,
+    "totalvotes": 3980
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wilbarger",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 2956,
+    "totalvotes": 3980
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wilbarger",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 53,
+    "totalvotes": 3980
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Willacy",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3600,
+    "totalvotes": 5064
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Willacy",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1416,
+    "totalvotes": 5064
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Willacy",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 48,
+    "totalvotes": 5064
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Williamson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 61875,
+    "totalvotes": 163271
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Williamson",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 97006,
+    "totalvotes": 163271
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Williamson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 4390,
+    "totalvotes": 163271
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wilson",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 4821,
+    "totalvotes": 17205
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wilson",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 12218,
+    "totalvotes": 17205
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wilson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 166,
+    "totalvotes": 17205
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Winkler",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 398,
+    "totalvotes": 1725
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Winkler",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1311,
+    "totalvotes": 1725
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Winkler",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 16,
+    "totalvotes": 1725
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wise",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3221,
+    "totalvotes": 20745
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wise",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 17207,
+    "totalvotes": 20745
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wise",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 317,
+    "totalvotes": 20745
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wood",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3056,
+    "totalvotes": 17581
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wood",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 14351,
+    "totalvotes": 17581
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wood",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 174,
+    "totalvotes": 17581
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Yoakum",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 409,
+    "totalvotes": 2128
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Yoakum",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 1698,
+    "totalvotes": 2128
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Yoakum",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 21,
+    "totalvotes": 2128
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Young",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 992,
+    "totalvotes": 7316
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Young",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 6225,
+    "totalvotes": 7316
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Young",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 99,
+    "totalvotes": 7316
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Zapata",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 2527,
+    "totalvotes": 3543
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Zapata",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 997,
+    "totalvotes": 3543
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Zapata",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 19,
+    "totalvotes": 3543
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Zavala",
+    "candidate": "Barack Obama",
+    "party": "democrat",
+    "candidatevotes": 3042,
+    "totalvotes": 3653
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Zavala",
+    "candidate": "Mitt Romney",
+    "party": "republican",
+    "candidatevotes": 574,
+    "totalvotes": 3653
+  },
+  {
+    "year": 2012,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Zavala",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 37,
+    "totalvotes": 3653
+  }
+]

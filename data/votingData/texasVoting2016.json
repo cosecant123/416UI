@@ -1,0 +1,7622 @@
+[
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Anderson",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 3369,
+    "totalvotes": 16977
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Anderson",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 13201,
+    "totalvotes": 16977
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Anderson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 407,
+    "totalvotes": 16977
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Andrews",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 836,
+    "totalvotes": 4943
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Andrews",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3927,
+    "totalvotes": 4943
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Andrews",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 180,
+    "totalvotes": 4943
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Angelina",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 7538,
+    "totalvotes": 29911
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Angelina",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 21668,
+    "totalvotes": 29911
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Angelina",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 705,
+    "totalvotes": 29911
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Aransas",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2465,
+    "totalvotes": 10512
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Aransas",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 7740,
+    "totalvotes": 10512
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Aransas",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 307,
+    "totalvotes": 10512
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Archer",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 394,
+    "totalvotes": 4283
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Archer",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3786,
+    "totalvotes": 4283
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Archer",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 103,
+    "totalvotes": 4283
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Armstrong",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 70,
+    "totalvotes": 1021
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Armstrong",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 924,
+    "totalvotes": 1021
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Armstrong",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 27,
+    "totalvotes": 1021
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Atascosa",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 4651,
+    "totalvotes": 13673
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Atascosa",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 8618,
+    "totalvotes": 13673
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Atascosa",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 404,
+    "totalvotes": 13673
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Austin",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2320,
+    "totalvotes": 12274
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Austin",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 9637,
+    "totalvotes": 12274
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Austin",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 317,
+    "totalvotes": 12274
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bailey",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 397,
+    "totalvotes": 1793
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bailey",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1344,
+    "totalvotes": 1793
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bailey",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 52,
+    "totalvotes": 1793
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bandera",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1726,
+    "totalvotes": 10218
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bandera",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 8163,
+    "totalvotes": 10218
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bandera",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 329,
+    "totalvotes": 10218
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bastrop",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 10569,
+    "totalvotes": 28454
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bastrop",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 16328,
+    "totalvotes": 28454
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bastrop",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1557,
+    "totalvotes": 28454
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Baylor",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 191,
+    "totalvotes": 1499
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Baylor",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1267,
+    "totalvotes": 1499
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Baylor",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 41,
+    "totalvotes": 1499
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bee",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 3444,
+    "totalvotes": 8485
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bee",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 4744,
+    "totalvotes": 8485
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bee",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 297,
+    "totalvotes": 8485
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bell",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 37801,
+    "totalvotes": 94994
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bell",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 51998,
+    "totalvotes": 94994
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 5195,
+    "totalvotes": 94994
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bexar",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 319550,
+    "totalvotes": 589645
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bexar",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 240333,
+    "totalvotes": 589645
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bexar",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 29762,
+    "totalvotes": 589645
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Blanco",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1244,
+    "totalvotes": 5685
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Blanco",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 4212,
+    "totalvotes": 5685
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Blanco",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 229,
+    "totalvotes": 5685
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Borden",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 31,
+    "totalvotes": 365
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Borden",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 330,
+    "totalvotes": 365
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Borden",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 4,
+    "totalvotes": 365
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bosque",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1278,
+    "totalvotes": 7838
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bosque",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 6339,
+    "totalvotes": 7838
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bosque",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 221,
+    "totalvotes": 7838
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bowie",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 8838,
+    "totalvotes": 34602
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bowie",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 24924,
+    "totalvotes": 34602
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Bowie",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 840,
+    "totalvotes": 34602
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brazoria",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 43200,
+    "totalvotes": 121181
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brazoria",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 72791,
+    "totalvotes": 121181
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brazoria",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 5190,
+    "totalvotes": 121181
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brazos",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 23121,
+    "totalvotes": 67211
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brazos",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 38738,
+    "totalvotes": 67211
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brazos",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 5352,
+    "totalvotes": 67211
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brewster",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1873,
+    "totalvotes": 4252
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brewster",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 2077,
+    "totalvotes": 4252
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brewster",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 302,
+    "totalvotes": 4252
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Briscoe",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 91,
+    "totalvotes": 736
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Briscoe",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 625,
+    "totalvotes": 736
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Briscoe",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 20,
+    "totalvotes": 736
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brooks",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1937,
+    "totalvotes": 2596
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brooks",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 613,
+    "totalvotes": 2596
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brooks",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 46,
+    "totalvotes": 2596
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brown",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1621,
+    "totalvotes": 14026
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brown",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 12017,
+    "totalvotes": 14026
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Brown",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 388,
+    "totalvotes": 14026
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Burleson",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1491,
+    "totalvotes": 6960
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Burleson",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 5316,
+    "totalvotes": 6960
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Burleson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 153,
+    "totalvotes": 6960
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Burnet",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 3797,
+    "totalvotes": 19204
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Burnet",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 14638,
+    "totalvotes": 19204
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Burnet",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 769,
+    "totalvotes": 19204
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Caldwell",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 4795,
+    "totalvotes": 12092
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Caldwell",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 6691,
+    "totalvotes": 12092
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Caldwell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 606,
+    "totalvotes": 12092
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Calhoun",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2118,
+    "totalvotes": 6965
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Calhoun",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 4638,
+    "totalvotes": 6965
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Calhoun",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 209,
+    "totalvotes": 6965
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Callahan",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 569,
+    "totalvotes": 5579
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Callahan",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 4865,
+    "totalvotes": 5579
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Callahan",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 145,
+    "totalvotes": 5579
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cameron",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 59402,
+    "totalvotes": 92079
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cameron",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 29472,
+    "totalvotes": 92079
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cameron",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 3205,
+    "totalvotes": 92079
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Camp",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1260,
+    "totalvotes": 4542
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Camp",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3201,
+    "totalvotes": 4542
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Camp",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 81,
+    "totalvotes": 4542
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Carson",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 249,
+    "totalvotes": 2964
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Carson",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 2620,
+    "totalvotes": 2964
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Carson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 95,
+    "totalvotes": 2964
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cass",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2391,
+    "totalvotes": 12344
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cass",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 9726,
+    "totalvotes": 12344
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cass",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 227,
+    "totalvotes": 12344
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Castro",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 526,
+    "totalvotes": 1997
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Castro",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1414,
+    "totalvotes": 1997
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Castro",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 57,
+    "totalvotes": 1997
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Chambers",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2948,
+    "totalvotes": 16786
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Chambers",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 13339,
+    "totalvotes": 16786
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Chambers",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 499,
+    "totalvotes": 16786
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cherokee",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 3469,
+    "totalvotes": 16790
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cherokee",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 12919,
+    "totalvotes": 16790
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cherokee",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 402,
+    "totalvotes": 16790
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Childress",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 253,
+    "totalvotes": 2084
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Childress",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1802,
+    "totalvotes": 2084
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Childress",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 29,
+    "totalvotes": 2084
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Clay",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 536,
+    "totalvotes": 5018
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Clay",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 4377,
+    "totalvotes": 5018
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Clay",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 105,
+    "totalvotes": 5018
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cochran",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 190,
+    "totalvotes": 901
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cochran",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 679,
+    "totalvotes": 901
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cochran",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 32,
+    "totalvotes": 901
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coke",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 140,
+    "totalvotes": 1423
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coke",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1265,
+    "totalvotes": 1423
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coke",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 18,
+    "totalvotes": 1423
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coleman",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 388,
+    "totalvotes": 3643
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coleman",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3177,
+    "totalvotes": 3643
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coleman",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 78,
+    "totalvotes": 3643
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Collin",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 140624,
+    "totalvotes": 361419
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Collin",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 201014,
+    "totalvotes": 361419
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Collin",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 19781,
+    "totalvotes": 361419
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Collingsworth",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 145,
+    "totalvotes": 1156
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Collingsworth",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 983,
+    "totalvotes": 1156
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Collingsworth",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 28,
+    "totalvotes": 1156
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Colorado",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1987,
+    "totalvotes": 8513
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Colorado",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 6325,
+    "totalvotes": 8513
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Colorado",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 201,
+    "totalvotes": 8513
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Comal",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 14238,
+    "totalvotes": 62178
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Comal",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 45136,
+    "totalvotes": 62178
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Comal",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 2804,
+    "totalvotes": 62178
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Comanche",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 789,
+    "totalvotes": 5237
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Comanche",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 4333,
+    "totalvotes": 5237
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Comanche",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 115,
+    "totalvotes": 5237
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Concho",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 148,
+    "totalvotes": 1068
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Concho",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 885,
+    "totalvotes": 1068
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Concho",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 35,
+    "totalvotes": 1068
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cooke",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2352,
+    "totalvotes": 15955
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cooke",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 13181,
+    "totalvotes": 15955
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cooke",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 422,
+    "totalvotes": 15955
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coryell",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 5064,
+    "totalvotes": 18253
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coryell",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 12225,
+    "totalvotes": 18253
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Coryell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 964,
+    "totalvotes": 18253
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cottle",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 92,
+    "totalvotes": 612
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cottle",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 506,
+    "totalvotes": 612
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Cottle",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 14,
+    "totalvotes": 612
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crane",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 299,
+    "totalvotes": 1384
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crane",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1049,
+    "totalvotes": 1384
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crane",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 36,
+    "totalvotes": 1384
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crockett",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 372,
+    "totalvotes": 1395
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crockett",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 980,
+    "totalvotes": 1395
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crockett",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 43,
+    "totalvotes": 1395
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crosby",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 468,
+    "totalvotes": 1728
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crosby",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1181,
+    "totalvotes": 1728
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Crosby",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 79,
+    "totalvotes": 1728
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Culberson",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 454,
+    "totalvotes": 767
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Culberson",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 280,
+    "totalvotes": 767
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Culberson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 33,
+    "totalvotes": 767
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dallam",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 222,
+    "totalvotes": 1544
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dallam",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1261,
+    "totalvotes": 1544
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dallam",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 61,
+    "totalvotes": 1544
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dallas",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 461080,
+    "totalvotes": 758973
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dallas",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 262945,
+    "totalvotes": 758973
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dallas",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 34948,
+    "totalvotes": 758973
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dawson",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 835,
+    "totalvotes": 3563
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dawson",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 2636,
+    "totalvotes": 3563
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dawson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 92,
+    "totalvotes": 3563
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Deaf Smith",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1185,
+    "totalvotes": 4216
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Deaf Smith",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 2911,
+    "totalvotes": 4216
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Deaf Smith",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 120,
+    "totalvotes": 4216
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Delta",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 400,
+    "totalvotes": 2281
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Delta",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1836,
+    "totalvotes": 2281
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Delta",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 45,
+    "totalvotes": 2281
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Denton",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 110890,
+    "totalvotes": 298645
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Denton",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 170603,
+    "totalvotes": 298645
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Denton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 17152,
+    "totalvotes": 298645
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dewitt",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1163,
+    "totalvotes": 6844
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dewitt",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 5519,
+    "totalvotes": 6844
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dewitt",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 162,
+    "totalvotes": 6844
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dickens",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 128,
+    "totalvotes": 909
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dickens",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 755,
+    "totalvotes": 909
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dickens",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 26,
+    "totalvotes": 909
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dimmit",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2173,
+    "totalvotes": 3225
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dimmit",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 974,
+    "totalvotes": 3225
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Dimmit",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 78,
+    "totalvotes": 3225
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Donley",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 191,
+    "totalvotes": 1465
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Donley",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1225,
+    "totalvotes": 1465
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Donley",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 49,
+    "totalvotes": 1465
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Duval",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2783,
+    "totalvotes": 4168
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Duval",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1316,
+    "totalvotes": 4168
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Duval",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 69,
+    "totalvotes": 4168
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Eastland",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 776,
+    "totalvotes": 6963
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Eastland",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 6011,
+    "totalvotes": 6963
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Eastland",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 176,
+    "totalvotes": 6963
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ector",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 10249,
+    "totalvotes": 36530
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ector",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 25020,
+    "totalvotes": 36530
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ector",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1261,
+    "totalvotes": 36530
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Edwards",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 303,
+    "totalvotes": 1073
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Edwards",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 746,
+    "totalvotes": 1073
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Edwards",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 24,
+    "totalvotes": 1073
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ellis",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 16253,
+    "totalvotes": 63673
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ellis",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 44941,
+    "totalvotes": 63673
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ellis",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 2479,
+    "totalvotes": 63673
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "El Paso",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 147843,
+    "totalvotes": 214008
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "El Paso",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 55512,
+    "totalvotes": 214008
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "El Paso",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 10653,
+    "totalvotes": 214008
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Erath",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2160,
+    "totalvotes": 13893
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Erath",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 11210,
+    "totalvotes": 13893
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Erath",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 523,
+    "totalvotes": 13893
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Falls",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1684,
+    "totalvotes": 5248
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Falls",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3441,
+    "totalvotes": 5248
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Falls",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 123,
+    "totalvotes": 5248
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fannin",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2132,
+    "totalvotes": 12044
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fannin",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 9548,
+    "totalvotes": 12044
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fannin",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 364,
+    "totalvotes": 12044
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fayette",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2144,
+    "totalvotes": 11174
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fayette",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 8743,
+    "totalvotes": 11174
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fayette",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 287,
+    "totalvotes": 11174
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fisher",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 403,
+    "totalvotes": 1729
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fisher",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1265,
+    "totalvotes": 1729
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fisher",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 61,
+    "totalvotes": 1729
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Floyd",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 435,
+    "totalvotes": 1959
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Floyd",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1474,
+    "totalvotes": 1959
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Floyd",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 50,
+    "totalvotes": 1959
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Foard",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 113,
+    "totalvotes": 513
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Foard",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 383,
+    "totalvotes": 513
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Foard",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 17,
+    "totalvotes": 513
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fort Bend",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 134686,
+    "totalvotes": 262066
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fort Bend",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 117291,
+    "totalvotes": 262066
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Fort Bend",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 10089,
+    "totalvotes": 262066
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Franklin",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 665,
+    "totalvotes": 4380
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Franklin",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3585,
+    "totalvotes": 4380
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Franklin",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 130,
+    "totalvotes": 4380
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Freestone",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1471,
+    "totalvotes": 7684
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Freestone",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 6026,
+    "totalvotes": 7684
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Freestone",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 187,
+    "totalvotes": 7684
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Frio",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2444,
+    "totalvotes": 4400
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Frio",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1856,
+    "totalvotes": 4400
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Frio",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 100,
+    "totalvotes": 4400
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gaines",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 597,
+    "totalvotes": 4620
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gaines",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3907,
+    "totalvotes": 4620
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gaines",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 116,
+    "totalvotes": 4620
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Galveston",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 43658,
+    "totalvotes": 122903
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Galveston",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 73757,
+    "totalvotes": 122903
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Galveston",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 5488,
+    "totalvotes": 122903
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Garza",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 230,
+    "totalvotes": 1484
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Garza",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1225,
+    "totalvotes": 1484
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Garza",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 29,
+    "totalvotes": 1484
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gillespie",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2288,
+    "totalvotes": 13214
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gillespie",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 10446,
+    "totalvotes": 13214
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gillespie",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 480,
+    "totalvotes": 13214
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Glasscock",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 34,
+    "totalvotes": 604
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Glasscock",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 553,
+    "totalvotes": 604
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Glasscock",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 17,
+    "totalvotes": 604
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Goliad",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 973,
+    "totalvotes": 3708
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Goliad",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 2620,
+    "totalvotes": 3708
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Goliad",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 115,
+    "totalvotes": 3708
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gonzales",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1571,
+    "totalvotes": 6334
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gonzales",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 4587,
+    "totalvotes": 6334
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gonzales",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 176,
+    "totalvotes": 6334
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gray",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 701,
+    "totalvotes": 7405
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gray",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 6500,
+    "totalvotes": 7405
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gray",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 204,
+    "totalvotes": 7405
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Grayson",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 10301,
+    "totalvotes": 47416
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Grayson",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 35325,
+    "totalvotes": 47416
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Grayson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1790,
+    "totalvotes": 47416
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gregg",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 11677,
+    "totalvotes": 41749
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gregg",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 28764,
+    "totalvotes": 41749
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Gregg",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1308,
+    "totalvotes": 41749
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Grimes",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2194,
+    "totalvotes": 9533
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Grimes",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 7065,
+    "totalvotes": 9533
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Grimes",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 274,
+    "totalvotes": 9533
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Guadalupe",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 18391,
+    "totalvotes": 57822
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Guadalupe",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 36632,
+    "totalvotes": 57822
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Guadalupe",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 2799,
+    "totalvotes": 57822
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hale",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2101,
+    "totalvotes": 8858
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hale",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 6366,
+    "totalvotes": 8858
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hale",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 391,
+    "totalvotes": 8858
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hall",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 164,
+    "totalvotes": 1091
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hall",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 893,
+    "totalvotes": 1091
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hall",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 34,
+    "totalvotes": 1091
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hamilton",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 479,
+    "totalvotes": 3620
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hamilton",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3060,
+    "totalvotes": 3620
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hamilton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 81,
+    "totalvotes": 3620
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hansford",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 171,
+    "totalvotes": 1947
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hansford",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1730,
+    "totalvotes": 1947
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hansford",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 46,
+    "totalvotes": 1947
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hardeman",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 249,
+    "totalvotes": 1513
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hardeman",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1207,
+    "totalvotes": 1513
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hardeman",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 57,
+    "totalvotes": 1513
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hardin",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2780,
+    "totalvotes": 22780
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hardin",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 19606,
+    "totalvotes": 22780
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hardin",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 394,
+    "totalvotes": 22780
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Harris",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 707914,
+    "totalvotes": 1312112
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Harris",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 545955,
+    "totalvotes": 1312112
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Harris",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 58243,
+    "totalvotes": 1312112
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Harrison",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 7151,
+    "totalvotes": 26548
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Harrison",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 18749,
+    "totalvotes": 26548
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Harrison",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 648,
+    "totalvotes": 26548
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hartley",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 173,
+    "totalvotes": 1952
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hartley",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1730,
+    "totalvotes": 1952
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hartley",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 49,
+    "totalvotes": 1952
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Haskell",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 314,
+    "totalvotes": 1770
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Haskell",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1403,
+    "totalvotes": 1770
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Haskell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 53,
+    "totalvotes": 1770
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hays",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 33224,
+    "totalvotes": 72164
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hays",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 33826,
+    "totalvotes": 72164
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hays",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 5114,
+    "totalvotes": 72164
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hemphill",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 181,
+    "totalvotes": 1695
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hemphill",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1462,
+    "totalvotes": 1695
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hemphill",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 52,
+    "totalvotes": 1695
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Henderson",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 5669,
+    "totalvotes": 30045
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Henderson",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 23650,
+    "totalvotes": 30045
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Henderson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 726,
+    "totalvotes": 30045
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hidalgo",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 118809,
+    "totalvotes": 173437
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hidalgo",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 48642,
+    "totalvotes": 173437
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hidalgo",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 5986,
+    "totalvotes": 173437
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hill",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2547,
+    "totalvotes": 12970
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hill",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 10108,
+    "totalvotes": 12970
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hill",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 315,
+    "totalvotes": 12970
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hockley",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1260,
+    "totalvotes": 7311
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hockley",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 5809,
+    "totalvotes": 7311
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hockley",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 242,
+    "totalvotes": 7311
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hood",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 4008,
+    "totalvotes": 26262
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hood",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 21382,
+    "totalvotes": 26262
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hood",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 872,
+    "totalvotes": 26262
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hopkins",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2510,
+    "totalvotes": 13538
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hopkins",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 10707,
+    "totalvotes": 13538
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hopkins",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 321,
+    "totalvotes": 13538
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Houston",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1978,
+    "totalvotes": 8353
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Houston",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 6205,
+    "totalvotes": 8353
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Houston",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 170,
+    "totalvotes": 8353
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Howard",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1770,
+    "totalvotes": 8723
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Howard",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 6637,
+    "totalvotes": 8723
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Howard",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 316,
+    "totalvotes": 8723
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hudspeth",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 324,
+    "totalvotes": 871
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hudspeth",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 503,
+    "totalvotes": 871
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hudspeth",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 44,
+    "totalvotes": 871
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hunt",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 6396,
+    "totalvotes": 31554
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hunt",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 23910,
+    "totalvotes": 31554
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hunt",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1248,
+    "totalvotes": 31554
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hutchinson",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 854,
+    "totalvotes": 8155
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hutchinson",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 7042,
+    "totalvotes": 8155
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Hutchinson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 259,
+    "totalvotes": 8155
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Irion",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 90,
+    "totalvotes": 766
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Irion",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 660,
+    "totalvotes": 766
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Irion",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 16,
+    "totalvotes": 766
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jack",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 314,
+    "totalvotes": 3350
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jack",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 2973,
+    "totalvotes": 3350
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jack",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 63,
+    "totalvotes": 3350
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jackson",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 904,
+    "totalvotes": 5302
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jackson",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 4266,
+    "totalvotes": 5302
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jackson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 132,
+    "totalvotes": 5302
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jasper",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2590,
+    "totalvotes": 13419
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jasper",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 10609,
+    "totalvotes": 13419
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jasper",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 220,
+    "totalvotes": 13419
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jeff Davis",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 422,
+    "totalvotes": 1191
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jeff Davis",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 695,
+    "totalvotes": 1191
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jeff Davis",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 74,
+    "totalvotes": 1191
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jefferson",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 42443,
+    "totalvotes": 87618
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jefferson",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 42862,
+    "totalvotes": 87618
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jefferson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 2313,
+    "totalvotes": 87618
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jim Hogg",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1635,
+    "totalvotes": 2119
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jim Hogg",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 430,
+    "totalvotes": 2119
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jim Hogg",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 54,
+    "totalvotes": 2119
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jim Wells",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 6694,
+    "totalvotes": 12379
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jim Wells",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 5420,
+    "totalvotes": 12379
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jim Wells",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 265,
+    "totalvotes": 12379
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Johnson",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 10988,
+    "totalvotes": 57606
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Johnson",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 44382,
+    "totalvotes": 57606
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Johnson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 2236,
+    "totalvotes": 57606
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jones",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 936,
+    "totalvotes": 5960
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jones",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 4819,
+    "totalvotes": 5960
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Jones",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 205,
+    "totalvotes": 5960
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Karnes",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1145,
+    "totalvotes": 4198
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Karnes",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 2965,
+    "totalvotes": 4198
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Karnes",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 88,
+    "totalvotes": 4198
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kaufman",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 10278,
+    "totalvotes": 41265
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kaufman",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 29587,
+    "totalvotes": 41265
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kaufman",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1400,
+    "totalvotes": 41265
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kendall",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 3643,
+    "totalvotes": 20120
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kendall",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 15700,
+    "totalvotes": 20120
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kendall",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 777,
+    "totalvotes": 20120
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kenedy",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 99,
+    "totalvotes": 186
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kenedy",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 84,
+    "totalvotes": 186
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kenedy",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 3,
+    "totalvotes": 186
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kent",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 59,
+    "totalvotes": 434
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kent",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 360,
+    "totalvotes": 434
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kent",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 15,
+    "totalvotes": 434
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kerr",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 4681,
+    "totalvotes": 23297
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kerr",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 17727,
+    "totalvotes": 23297
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kerr",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 889,
+    "totalvotes": 23297
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kimble",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 206,
+    "totalvotes": 1952
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kimble",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1697,
+    "totalvotes": 1952
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kimble",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 49,
+    "totalvotes": 1952
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "King",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 5,
+    "totalvotes": 159
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "King",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 149,
+    "totalvotes": 159
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "King",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 5,
+    "totalvotes": 159
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kinney",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 458,
+    "totalvotes": 1430
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kinney",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 936,
+    "totalvotes": 1430
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kinney",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 36,
+    "totalvotes": 1430
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kleberg",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 4716,
+    "totalvotes": 9512
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kleberg",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 4367,
+    "totalvotes": 9512
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Kleberg",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 429,
+    "totalvotes": 9512
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Knox",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 247,
+    "totalvotes": 1367
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Knox",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1078,
+    "totalvotes": 1367
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Knox",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 42,
+    "totalvotes": 1367
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lamar",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 3583,
+    "totalvotes": 18611
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lamar",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 14561,
+    "totalvotes": 18611
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lamar",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 467,
+    "totalvotes": 18611
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lamb",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 771,
+    "totalvotes": 3995
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lamb",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3111,
+    "totalvotes": 3995
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lamb",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 113,
+    "totalvotes": 3995
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lampasas",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1483,
+    "totalvotes": 8205
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lampasas",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 6385,
+    "totalvotes": 8205
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lampasas",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 337,
+    "totalvotes": 8205
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "La Salle",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1129,
+    "totalvotes": 2059
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "La Salle",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 872,
+    "totalvotes": 2059
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "La Salle",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 58,
+    "totalvotes": 2059
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lavaca",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1170,
+    "totalvotes": 8661
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lavaca",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 7347,
+    "totalvotes": 8661
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lavaca",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 144,
+    "totalvotes": 8661
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lee",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1372,
+    "totalvotes": 6535
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lee",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 4997,
+    "totalvotes": 6535
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lee",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 166,
+    "totalvotes": 6535
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Leon",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 909,
+    "totalvotes": 7439
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Leon",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 6391,
+    "totalvotes": 7439
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Leon",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 139,
+    "totalvotes": 7439
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Liberty",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 4862,
+    "totalvotes": 24267
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Liberty",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 18892,
+    "totalvotes": 24267
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Liberty",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 513,
+    "totalvotes": 24267
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Limestone",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1778,
+    "totalvotes": 7739
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Limestone",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 5796,
+    "totalvotes": 7739
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Limestone",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 165,
+    "totalvotes": 7739
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lipscomb",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 135,
+    "totalvotes": 1332
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lipscomb",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1159,
+    "totalvotes": 1332
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lipscomb",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 38,
+    "totalvotes": 1332
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Live Oak",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 742,
+    "totalvotes": 4302
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Live Oak",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3464,
+    "totalvotes": 4302
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Live Oak",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 96,
+    "totalvotes": 4302
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Llano",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1825,
+    "totalvotes": 10447
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Llano",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 8299,
+    "totalvotes": 10447
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Llano",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 323,
+    "totalvotes": 10447
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Loving",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 4,
+    "totalvotes": 65
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Loving",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 58,
+    "totalvotes": 65
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Loving",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 3,
+    "totalvotes": 65
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lubbock",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 28023,
+    "totalvotes": 99013
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lubbock",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 65651,
+    "totalvotes": 99013
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lubbock",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 5339,
+    "totalvotes": 99013
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lynn",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 403,
+    "totalvotes": 2009
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lynn",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1546,
+    "totalvotes": 2009
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Lynn",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 60,
+    "totalvotes": 2009
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McCulloch",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 482,
+    "totalvotes": 3103
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McCulloch",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 2552,
+    "totalvotes": 3103
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McCulloch",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 69,
+    "totalvotes": 3103
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McLennan",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 27063,
+    "totalvotes": 79075
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McLennan",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 48260,
+    "totalvotes": 79075
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McLennan",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 3752,
+    "totalvotes": 79075
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McMullen",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 40,
+    "totalvotes": 499
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McMullen",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 454,
+    "totalvotes": 499
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "McMullen",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 5,
+    "totalvotes": 499
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Madison",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 881,
+    "totalvotes": 4289
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Madison",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3351,
+    "totalvotes": 4289
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Madison",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 57,
+    "totalvotes": 4289
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Marion",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1165,
+    "totalvotes": 4238
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Marion",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 2983,
+    "totalvotes": 4238
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Marion",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 90,
+    "totalvotes": 4238
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Martin",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 266,
+    "totalvotes": 1762
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Martin",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1455,
+    "totalvotes": 1762
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Martin",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 41,
+    "totalvotes": 1762
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mason",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 354,
+    "totalvotes": 2057
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mason",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1656,
+    "totalvotes": 2057
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mason",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 47,
+    "totalvotes": 2057
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Matagorda",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 3500,
+    "totalvotes": 12196
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Matagorda",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 8366,
+    "totalvotes": 12196
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Matagorda",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 330,
+    "totalvotes": 12196
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Maverick",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 10397,
+    "totalvotes": 13588
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Maverick",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 2816,
+    "totalvotes": 13588
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Maverick",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 375,
+    "totalvotes": 13588
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Medina",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 4634,
+    "totalvotes": 17246
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Medina",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 12085,
+    "totalvotes": 17246
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Medina",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 527,
+    "totalvotes": 17246
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Menard",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 154,
+    "totalvotes": 864
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Menard",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 682,
+    "totalvotes": 864
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Menard",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 28,
+    "totalvotes": 864
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Midland",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 10025,
+    "totalvotes": 49212
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Midland",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 36973,
+    "totalvotes": 49212
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Midland",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 2214,
+    "totalvotes": 49212
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Milam",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2051,
+    "totalvotes": 8664
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Milam",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 6364,
+    "totalvotes": 8664
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Milam",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 249,
+    "totalvotes": 8664
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mills",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 243,
+    "totalvotes": 2245
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mills",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1951,
+    "totalvotes": 2245
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mills",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 51,
+    "totalvotes": 2245
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mitchell",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 354,
+    "totalvotes": 2196
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mitchell",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1780,
+    "totalvotes": 2196
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Mitchell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 62,
+    "totalvotes": 2196
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Montague",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 885,
+    "totalvotes": 8604
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Montague",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 7526,
+    "totalvotes": 8604
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Montague",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 193,
+    "totalvotes": 8604
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Montgomery",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 45835,
+    "totalvotes": 204632
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Montgomery",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 150314,
+    "totalvotes": 204632
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Montgomery",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 8483,
+    "totalvotes": 204632
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Moore",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1098,
+    "totalvotes": 5284
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Moore",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3977,
+    "totalvotes": 5284
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Moore",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 209,
+    "totalvotes": 5284
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Morris",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1425,
+    "totalvotes": 4973
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Morris",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3446,
+    "totalvotes": 4973
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Morris",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 102,
+    "totalvotes": 4973
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Motley",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 40,
+    "totalvotes": 615
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Motley",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 566,
+    "totalvotes": 615
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Motley",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 9,
+    "totalvotes": 615
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nacogdoches",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 6846,
+    "totalvotes": 22622
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nacogdoches",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 14771,
+    "totalvotes": 22622
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nacogdoches",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1005,
+    "totalvotes": 22622
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Navarro",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 4002,
+    "totalvotes": 16433
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Navarro",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 11994,
+    "totalvotes": 16433
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Navarro",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 437,
+    "totalvotes": 16433
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Newton",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1156,
+    "totalvotes": 5534
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Newton",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 4288,
+    "totalvotes": 5534
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Newton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 90,
+    "totalvotes": 5534
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nolan",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1029,
+    "totalvotes": 4857
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nolan",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3552,
+    "totalvotes": 4857
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nolan",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 276,
+    "totalvotes": 4857
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nueces",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 49198,
+    "totalvotes": 104405
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nueces",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 50766,
+    "totalvotes": 104405
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Nueces",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 4441,
+    "totalvotes": 104405
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ochiltree",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 274,
+    "totalvotes": 3002
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ochiltree",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 2628,
+    "totalvotes": 3002
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ochiltree",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 100,
+    "totalvotes": 3002
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Oldham",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 78,
+    "totalvotes": 948
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Oldham",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 850,
+    "totalvotes": 948
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Oldham",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 20,
+    "totalvotes": 948
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Orange",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 5735,
+    "totalvotes": 32000
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Orange",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 25513,
+    "totalvotes": 32000
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Orange",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 752,
+    "totalvotes": 32000
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Palo Pinto",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1708,
+    "totalvotes": 10270
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Palo Pinto",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 8284,
+    "totalvotes": 10270
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Palo Pinto",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 278,
+    "totalvotes": 10270
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Panola",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1835,
+    "totalvotes": 10416
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Panola",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 8445,
+    "totalvotes": 10416
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Panola",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 136,
+    "totalvotes": 10416
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Parker",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 8344,
+    "totalvotes": 56817
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Parker",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 46473,
+    "totalvotes": 56817
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Parker",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 2000,
+    "totalvotes": 56817
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Parmer",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 485,
+    "totalvotes": 2466
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Parmer",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1915,
+    "totalvotes": 2466
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Parmer",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 66,
+    "totalvotes": 2466
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Pecos",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1554,
+    "totalvotes": 4185
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Pecos",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 2468,
+    "totalvotes": 4185
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Pecos",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 163,
+    "totalvotes": 4185
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Polk",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 4187,
+    "totalvotes": 19852
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Polk",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 15176,
+    "totalvotes": 19852
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Polk",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 489,
+    "totalvotes": 19852
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Potter",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 7657,
+    "totalvotes": 28651
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Potter",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 19630,
+    "totalvotes": 28651
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Potter",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1364,
+    "totalvotes": 28651
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Presidio",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1458,
+    "totalvotes": 2208
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Presidio",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 652,
+    "totalvotes": 2208
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Presidio",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 98,
+    "totalvotes": 2208
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rains",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 628,
+    "totalvotes": 4701
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rains",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3968,
+    "totalvotes": 4701
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rains",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 105,
+    "totalvotes": 4701
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Randall",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 8367,
+    "totalvotes": 54305
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Randall",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 43462,
+    "totalvotes": 54305
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Randall",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 2476,
+    "totalvotes": 54305
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Reagan",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 167,
+    "totalvotes": 904
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Reagan",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 709,
+    "totalvotes": 904
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Reagan",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 28,
+    "totalvotes": 904
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Real",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 262,
+    "totalvotes": 1681
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Real",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1382,
+    "totalvotes": 1681
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Real",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 37,
+    "totalvotes": 1681
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Red River",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1149,
+    "totalvotes": 5161
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Red River",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3926,
+    "totalvotes": 5161
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Red River",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 86,
+    "totalvotes": 5161
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Reeves",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1659,
+    "totalvotes": 3184
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Reeves",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1417,
+    "totalvotes": 3184
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Reeves",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 108,
+    "totalvotes": 3184
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Refugio",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1034,
+    "totalvotes": 2948
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Refugio",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1830,
+    "totalvotes": 2948
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Refugio",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 84,
+    "totalvotes": 2948
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Roberts",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 20,
+    "totalvotes": 554
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Roberts",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 524,
+    "totalvotes": 554
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Roberts",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 10,
+    "totalvotes": 554
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Robertson",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2203,
+    "totalvotes": 7035
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Robertson",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 4668,
+    "totalvotes": 7035
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Robertson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 164,
+    "totalvotes": 7035
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rockwall",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 9655,
+    "totalvotes": 39948
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rockwall",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 28451,
+    "totalvotes": 39948
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rockwall",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1842,
+    "totalvotes": 39948
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Runnels",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 453,
+    "totalvotes": 3782
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Runnels",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3250,
+    "totalvotes": 3782
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Runnels",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 79,
+    "totalvotes": 3782
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rusk",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 3935,
+    "totalvotes": 18994
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rusk",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 14675,
+    "totalvotes": 18994
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Rusk",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 384,
+    "totalvotes": 18994
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sabine",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 614,
+    "totalvotes": 4651
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sabine",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3998,
+    "totalvotes": 4651
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sabine",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 39,
+    "totalvotes": 4651
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Augustine",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 910,
+    "totalvotes": 3569
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Augustine",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 2622,
+    "totalvotes": 3569
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Augustine",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 37,
+    "totalvotes": 3569
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Jacinto",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2038,
+    "totalvotes": 10343
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Jacinto",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 8059,
+    "totalvotes": 10343
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Jacinto",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 246,
+    "totalvotes": 10343
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Patricio",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 7871,
+    "totalvotes": 21656
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Patricio",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 13030,
+    "totalvotes": 21656
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Patricio",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 755,
+    "totalvotes": 21656
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Saba",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 293,
+    "totalvotes": 2357
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Saba",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 2025,
+    "totalvotes": 2357
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "San Saba",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 39,
+    "totalvotes": 2357
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Schleicher",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 208,
+    "totalvotes": 1059
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Schleicher",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 821,
+    "totalvotes": 1059
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Schleicher",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 30,
+    "totalvotes": 1059
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Scurry",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 733,
+    "totalvotes": 5289
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Scurry",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 4410,
+    "totalvotes": 5289
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Scurry",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 146,
+    "totalvotes": 5289
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Shackelford",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 103,
+    "totalvotes": 1504
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Shackelford",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1378,
+    "totalvotes": 1504
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Shackelford",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 23,
+    "totalvotes": 1504
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Shelby",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1758,
+    "totalvotes": 9086
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Shelby",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 7179,
+    "totalvotes": 9086
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Shelby",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 149,
+    "totalvotes": 9086
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sherman",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 96,
+    "totalvotes": 935
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sherman",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 807,
+    "totalvotes": 935
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sherman",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 32,
+    "totalvotes": 935
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Smith",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 22300,
+    "totalvotes": 84768
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Smith",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 58930,
+    "totalvotes": 84768
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Smith",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 3538,
+    "totalvotes": 84768
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Somervell",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 541,
+    "totalvotes": 3897
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Somervell",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3206,
+    "totalvotes": 3897
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Somervell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 150,
+    "totalvotes": 3897
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Starr",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 9289,
+    "totalvotes": 11740
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Starr",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 2224,
+    "totalvotes": 11740
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Starr",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 227,
+    "totalvotes": 11740
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Stephens",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 348,
+    "totalvotes": 3461
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Stephens",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3034,
+    "totalvotes": 3461
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Stephens",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 79,
+    "totalvotes": 3461
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sterling",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 70,
+    "totalvotes": 633
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sterling",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 549,
+    "totalvotes": 633
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sterling",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 14,
+    "totalvotes": 633
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Stonewall",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 135,
+    "totalvotes": 701
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Stonewall",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 555,
+    "totalvotes": 701
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Stonewall",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 11,
+    "totalvotes": 701
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sutton",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 313,
+    "totalvotes": 1416
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sutton",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1075,
+    "totalvotes": 1416
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Sutton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 28,
+    "totalvotes": 1416
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Swisher",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 462,
+    "totalvotes": 2204
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Swisher",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1671,
+    "totalvotes": 2204
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Swisher",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 71,
+    "totalvotes": 2204
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tarrant",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 288392,
+    "totalvotes": 668514
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tarrant",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 345921,
+    "totalvotes": 668514
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tarrant",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 34201,
+    "totalvotes": 668514
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Taylor",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 10085,
+    "totalvotes": 45759
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Taylor",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 33250,
+    "totalvotes": 45759
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Taylor",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 2424,
+    "totalvotes": 45759
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Terrell",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 140,
+    "totalvotes": 438
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Terrell",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 288,
+    "totalvotes": 438
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Terrell",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 10,
+    "totalvotes": 438
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Terry",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 753,
+    "totalvotes": 3355
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Terry",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 2459,
+    "totalvotes": 3355
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Terry",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 143,
+    "totalvotes": 3355
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Throckmorton",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 84,
+    "totalvotes": 808
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Throckmorton",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 715,
+    "totalvotes": 808
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Throckmorton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 9,
+    "totalvotes": 808
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Titus",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2597,
+    "totalvotes": 9419
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Titus",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 6511,
+    "totalvotes": 9419
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Titus",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 311,
+    "totalvotes": 9419
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tom Green",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 9173,
+    "totalvotes": 38479
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tom Green",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 27494,
+    "totalvotes": 38479
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tom Green",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1812,
+    "totalvotes": 38479
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Travis",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 308260,
+    "totalvotes": 468720
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Travis",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 127209,
+    "totalvotes": 468720
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Travis",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 33251,
+    "totalvotes": 468720
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Trinity",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1154,
+    "totalvotes": 5985
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Trinity",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 4737,
+    "totalvotes": 5985
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Trinity",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 94,
+    "totalvotes": 5985
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tyler",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 1248,
+    "totalvotes": 8016
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tyler",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 6624,
+    "totalvotes": 8016
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Tyler",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 144,
+    "totalvotes": 8016
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Upshur",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2380,
+    "totalvotes": 16013
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Upshur",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 13209,
+    "totalvotes": 16013
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Upshur",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 424,
+    "totalvotes": 16013
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Upton",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 286,
+    "totalvotes": 1347
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Upton",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1007,
+    "totalvotes": 1347
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Upton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 54,
+    "totalvotes": 1347
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Uvalde",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 3867,
+    "totalvotes": 8964
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Uvalde",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 4835,
+    "totalvotes": 8964
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Uvalde",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 262,
+    "totalvotes": 8964
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Val Verde",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 6964,
+    "totalvotes": 13617
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Val Verde",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 5890,
+    "totalvotes": 13617
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Val Verde",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 763,
+    "totalvotes": 13617
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Van Zandt",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2799,
+    "totalvotes": 21890
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Van Zandt",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 18473,
+    "totalvotes": 21890
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Van Zandt",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 618,
+    "totalvotes": 21890
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Victoria",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 8866,
+    "totalvotes": 31123
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Victoria",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 21275,
+    "totalvotes": 31123
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Victoria",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 982,
+    "totalvotes": 31123
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Walker",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 6091,
+    "totalvotes": 19796
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Walker",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 12884,
+    "totalvotes": 19796
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Walker",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 821,
+    "totalvotes": 19796
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Waller",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 5748,
+    "totalvotes": 16784
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Waller",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 10531,
+    "totalvotes": 16784
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Waller",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 505,
+    "totalvotes": 16784
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ward",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 783,
+    "totalvotes": 3445
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ward",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 2547,
+    "totalvotes": 3445
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Ward",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 115,
+    "totalvotes": 3445
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Washington",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 3382,
+    "totalvotes": 14828
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Washington",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 10945,
+    "totalvotes": 14828
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Washington",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 501,
+    "totalvotes": 14828
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Webb",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 42307,
+    "totalvotes": 56905
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Webb",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 12947,
+    "totalvotes": 56905
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Webb",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1651,
+    "totalvotes": 56905
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wharton",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 4238,
+    "totalvotes": 14732
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wharton",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 10149,
+    "totalvotes": 14732
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wharton",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 345,
+    "totalvotes": 14732
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wheeler",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 194,
+    "totalvotes": 2306
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wheeler",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 2087,
+    "totalvotes": 2306
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wheeler",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 25,
+    "totalvotes": 2306
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wichita",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 8770,
+    "totalvotes": 38119
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wichita",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 27631,
+    "totalvotes": 38119
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wichita",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 1718,
+    "totalvotes": 38119
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wilbarger",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 809,
+    "totalvotes": 4105
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wilbarger",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 3166,
+    "totalvotes": 4105
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wilbarger",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 130,
+    "totalvotes": 4105
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Willacy",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 3422,
+    "totalvotes": 5095
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Willacy",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1547,
+    "totalvotes": 5095
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Willacy",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 126,
+    "totalvotes": 5095
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Williamson",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 84468,
+    "totalvotes": 203081
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Williamson",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 104175,
+    "totalvotes": 203081
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Williamson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 14438,
+    "totalvotes": 203081
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wilson",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 4790,
+    "totalvotes": 19432
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wilson",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 13998,
+    "totalvotes": 19432
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wilson",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 644,
+    "totalvotes": 19432
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Winkler",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 420,
+    "totalvotes": 1876
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Winkler",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1403,
+    "totalvotes": 1876
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Winkler",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 53,
+    "totalvotes": 1876
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wise",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 3412,
+    "totalvotes": 24776
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wise",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 20670,
+    "totalvotes": 24776
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wise",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 694,
+    "totalvotes": 24776
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wood",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2630,
+    "totalvotes": 18727
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wood",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 15700,
+    "totalvotes": 18727
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Wood",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 397,
+    "totalvotes": 18727
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Yoakum",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 426,
+    "totalvotes": 2303
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Yoakum",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1797,
+    "totalvotes": 2303
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Yoakum",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 80,
+    "totalvotes": 2303
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Young",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 876,
+    "totalvotes": 7707
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Young",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 6601,
+    "totalvotes": 7707
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Young",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 230,
+    "totalvotes": 7707
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Zapata",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2063,
+    "totalvotes": 3142
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Zapata",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 1029,
+    "totalvotes": 3142
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Zapata",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 50,
+    "totalvotes": 3142
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Zavala",
+    "candidate": "Hillary Clinton",
+    "party": "democrat",
+    "candidatevotes": 2636,
+    "totalvotes": 3396
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Zavala",
+    "candidate": "Donald Trump",
+    "party": "republican",
+    "candidatevotes": 694,
+    "totalvotes": 3396
+  },
+  {
+    "year": 2016,
+    "state": "Texas",
+    "state_po": "TX",
+    "county": "Zavala",
+    "candidate": "Other",
+    "party": "",
+    "candidatevotes": 66,
+    "totalvotes": 3396
+  }
+]

@@ -38,7 +38,7 @@ function initListeners(){
     document.getElementById("showCaliforniaButton").addEventListener("click", redirectCalPage);
     document.getElementById("showTexasButton").addEventListener("click", redirectTexasPage);
     document.getElementById("showRhodeButton").addEventListener("click", redirectRIPage);
-    setTimeout(function(){ map.invalidateSize()}, 200);
+    setTimeout(function(){ map.invalidateSize()}, 100);
     window.addEventListener("resize", resizeMap);
 }
 
