@@ -21,79 +21,107 @@ var voting2016_JSON = JSON.parse(voting2016);
  * center in Texas
  */
 function initMap() {
-  map = L.map("texasMapID").setView([31.0902405, -98.7128906], 6);
-  L.tileLayer(
-    "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}",
-    {
-      attribution:
-        'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-      noWrap: true,
-      minZoom: 6,
-      id: "mapbox/streets-v11",
-      tileSize: 512,
-      zoomOffset: -1,
-      accessToken:
-        "pk.eyJ1IjoiY29zZWNhbnQiLCJhIjoiY2s2dHZqa3lrMDNmZTNlcXB5ajFpemRiYSJ9.y4qDm1J0MJNoFYoHB91meg"
-    }
-  ).addTo(map);
+    map = L.map("texasMapID").setView([31.0902405, -98.7128906], 6);
+    L.tileLayer(
+        "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
+            attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+            noWrap: true,
+            minZoom: 6,
+            id: "mapbox/streets-v11",
+            tileSize: 512,
+            zoomOffset: -1,
+            accessToken: "pk.eyJ1IjoiY29zZWNhbnQiLCJhIjoiY2s2dHZqa3lrMDNmZTNlcXB5ajFpemRiYSJ9.y4qDm1J0MJNoFYoHB91meg"
+        }
+    ).addTo(map);
 
-  // setting boundaries so it only show united states
-  map.setMaxBounds(
-    L.latLngBounds(
-      L.latLng(37.837377, -108.327629), //Southwest
-      L.latLng(25.384359, -92.885666) //Northeast
-    )
-  );
+    // setting boundaries so it only show united states
+    map.setMaxBounds(
+        L.latLngBounds(
+            L.latLng(37.837377, -108.327629), //Southwest
+            L.latLng(25.384359, -92.885666) //Northeast
+        )
+    );
 
-  // add geojson to map
+    // add geojson to map
 }
 
 // style for the 3 picked states
 function styleTexasBorder(feature) {
-  return {
-    weight: 2,
-    opacity: 1,
-    color: "#0000ff",
-    fillColor: "white"
-  };
+    return {
+        weight: 2,
+        opacity: 1,
+        color: "#0000ff",
+        fillColor: "white"
+    };
 }
 
 // style for all other states
 function styleOtherStates(feature) {
-  return {
-    fillColor: "gray",
-    weight: 2,
-    opacity: 1,
-    color: "transparent", //Outline color
-    fillOpacity: 0.7
-  };
+    return {
+        fillColor: "gray",
+        weight: 2,
+        opacity: 1,
+        color: "transparent", //Outline color
+        fillOpacity: 0.7
+    };
 }
 
 // style for counties
 function styleCounties(feature) {
-  return {
-    fillColor: "transparent",
-    weight: 0.5,
-    opacity: 1,
-    color: "blue", //Outline color
-    fillOpacity: 0.7,
-    dashArray: "20,15"
-  };
+    return {
+        fillColor: "transparent",
+        weight: 0.5,
+        opacity: 1,
+        color: "blue", //Outline color
+        fillOpacity: 0.7,
+        dashArray: "20,15"
+    };
 }
 
 // style for counties
 function stylePrecincts(feature) {
-  return {
-    fillColor: "red",
-    weight: 0.5,
-    opacity: 1,
-    color: "black", //Outline color
-    fillOpacity: 0.3
-  };
+    return {
+        fillColor: "red",
+        weight: 0.5,
+        opacity: 1,
+        color: "black", //Outline color
+        fillOpacity: 0.3
+    };
 }
 
 
 initMap();
+var texageojson;
+
+function highlightTexasFeature(e) {
+    var layer = e.target;
+    layer.setStyle({
+        weight: 5,
+        color: "#33cc33",
+        dashArray: "",
+        fillOpacity: 0.7
+    });
+
+    if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+        layer.bringToFront();
+    }
+    // texainfo.update(layer.feature.properties);
+}
+
+function resetTexasHighlight(e) {
+    var layer = e.target;
+    layer.setStyle({
+        weight: 0.5,
+        color: "#000000",
+        dashArray: "",
+        fillOpacity: 0.3
+    });
+
+    if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+        layer.bringToFront();
+    }
+    // texainfo.update();
+}
 
 /**
  * Toolbar for drawing polygon on the map
@@ -101,26 +129,26 @@ initMap();
 var editableLayers = new L.FeatureGroup();
 map.addLayer(editableLayers);
 var drawPluginOptions = {
-  position: "topright",
-  draw: {
-    polygon: {
-      allowIntersection: false,
-      drawError: {
-        color: "#e1e100"
-      },
-      shapeOptions: {
-        color: "#97009c"
-      }
+    position: "topright",
+    draw: {
+        polygon: {
+            allowIntersection: false,
+            drawError: {
+                color: "#e1e100"
+            },
+            shapeOptions: {
+                color: "#97009c"
+            }
+        },
+        polyline: false,
+        circle: false,
+        rectangle: false,
+        marker: false
     },
-    polyline: false,
-    circle: false,
-    rectangle: false,
-    marker: false
-  },
-  edit: {
-    featureGroup: editableLayers,
-    remove: true
-  }
+    edit: {
+        featureGroup: editableLayers,
+        remove: true
+    }
 };
 
 var drawControl = new L.Control.Draw(drawPluginOptions);
@@ -129,60 +157,61 @@ var editableLayers = new L.FeatureGroup();
 map.addLayer(editableLayers);
 
 map.on("draw:created", function(e) {
-  var type = e.layerType,
-    layer = e.layer;
+    var type = e.layerType,
+        layer = e.layer;
 
-  editableLayers.addLayer(layer);
+    editableLayers.addLayer(layer);
 });
 
 $.getJSON(OTHER_STATES_PATH, data => {
-  L.geoJson(data, { style: styleOtherStates }).addTo(map);
+    L.geoJson(data, { style: styleOtherStates }).addTo(map);
 });
 $.getJSON(MEXICO_BORDER_PATH, data => {
-  L.geoJson(data, { style: styleOtherStates }).addTo(map);
+    L.geoJson(data, { style: styleOtherStates }).addTo(map);
 });
 $.getJSON(CAL_BORDER_PATH, data => {
-  L.geoJson(data, { style: styleOtherStates }).addTo(map);
+    L.geoJson(data, { style: styleOtherStates }).addTo(map);
 });
 $.getJSON(TEXAS_BORDER_PATH, data => {
-  texasBorderData = L.geoJson(data, {
-    style: styleTexasBorder,
-    onEachFeature: onTexasLocal
-  }).addTo(map);
+    texasBorderData = L.geoJson(data, {
+        style: styleTexasBorder,
+        // onEachFeature: onTexasLocal
+    }).addTo(map);
 });
 
 //map.removeLayer(texasCountiesData);
 // show county border data
 $.getJSON(TEXAS_COUNTIES_PATH, data => {
-  texasCountiesData = L.geoJson(data, {
-    style: styleCounties,
-  }).addTo(map);
+    texasCountiesData = L.geoJson(data, {
+        style: styleCounties,
+    }).addTo(map);
 });
 // $.getJSON(TEXAS_COUNTIES_PATH, data => {
 //   texasCountiesData = L.geoJson(data, { style: styleCounties, onEachFeature: onTexasLocal }).addTo(map);
 // });
+var texainfo = L.control();
 
 function onTexasPrecincts(feature, layer) {
-  //触发的function
-  layer.on({
-    click: openNav
-  });
+    //触发的function
+    layer.on({
+        mouseover: highlightTexasFeature,
+        mouseout: resetTexasHighlight,
+        click: openNav
+    });
 }
 
 // load precinct border when zoomed in
 map.on("zoomend", function() {
-  if (map.getZoom() > 6) {
-    if (!map.hasLayer(texasPrecinctData)) {
-      $.getJSON(TEXAS_PRECINCT_PATH, data => {
-        texasPrecinctData = L.geoJson(data, {
-          style: stylePrecincts,
-          onEachFeature: onTexasPrecincts
-        }).addTo(map);
-      });
+    if (map.getZoom() > 6) {
+        if (!map.hasLayer(texasPrecinctData)) {
+            $.getJSON(TEXAS_PRECINCT_PATH, data => {
+                texasPrecinctData = L.geoJson(data, {
+                    style: stylePrecincts,
+                    onEachFeature: onTexasPrecincts
+                }).addTo(map);
+            });
+        }
+    } else {
+        if (map.hasLayer(texasPrecinctData)) map.removeLayer(texasPrecinctData);
     }
-  } else {
-    if (map.hasLayer(texasPrecinctData)) map.removeLayer(texasPrecinctData);
-  }
 });
-
-
