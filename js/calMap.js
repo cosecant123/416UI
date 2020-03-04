@@ -3,9 +3,11 @@ const CAL_BORDER_PATH = "/../data/calBorder.GeoJSON";
 const OTHER_STATES_PATH = "/../data/otherStates.GeoJSON";
 const MEXICO_BORDER_PATH = "/../data/mexicoBorder.GeoJSON";
 const CAL_COUNTIES_PATH = "/../data/calCounties.GeoJSON";
+const TEXAS_BORDER_PATH = "/../data/texasBorder.GeoJSON";
 let calBorderData;
 let calCountiesData;
 let calPrecinctsData;
+
 /**
  * create a leaflet map
  * center in California
@@ -66,12 +68,21 @@ function styleOtherStates(feature) {
 // style for counties
 function styleCounties(feature) {
   return {
-    fillColor: "#f075e6",
-    weight: 3,
+    fillColor: "transparent",
+    weight: 0.5,
     opacity: 1,
-    color: "#6eff54", //Outline color
+    color: "black", //Outline color
     fillOpacity: 0.7
   };
+}
+
+function onCaliforniaLocal(feature, layer) {
+  //触发的function
+  console.log("mouse in");
+  // var layer = layer.getElementById("mySidenav");
+  layer.on({
+      click: openNav
+  });
 }
 
 initMap();
@@ -82,9 +93,13 @@ $.getJSON(OTHER_STATES_PATH, data =>{
 $.getJSON(MEXICO_BORDER_PATH, data =>{
   L.geoJson(data, {style: styleOtherStates}).addTo(map);
 });
-$.getJSON(CAL_BORDER_PATH, data =>{
-    calBorderData = L.geoJson(data, {style: styleCalBorder}).addTo(map);
+$.getJSON(TEXAS_BORDER_PATH, data =>{
+  L.geoJson(data, {style: styleOtherStates}).addTo(map);
 });
+$.getJSON(CAL_BORDER_PATH, data =>{
+  calBorderData = L.geoJson(data, { style: styleCalBorder, onEachFeature: onCaliforniaLocal }).addTo(map);
+});
+
 
 
 // add listener to the show county and show precinct toggles

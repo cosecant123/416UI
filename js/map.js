@@ -155,6 +155,7 @@ function onCalifornia(feature, layer) {
     click: redirectCalPage
   });
 }
+
 function onTexas(feature, layer) {
   //触发的function
   layer.on({

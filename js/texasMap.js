@@ -3,8 +3,11 @@ const TEXAS_BORDER_PATH = "/../data/texasBorder.GeoJSON";
 const OTHER_STATES_PATH = "/../data/otherStates.GeoJSON";
 const MEXICO_BORDER_PATH = "/../data/mexicoBorder.GeoJSON";
 const TEXAS_COUNTIES_PATH = "/../data/texasCounties.GeoJSON";
+const CAL_BORDER_PATH = "/../data/calBorder.GeoJSON";
+const TEXAS_PRECINCT_PATH = "/../data/texasPrecinct.GeoJSON";
 let texasBorderData;
 let texasCountiesData;
+let texasPrecinctData;
 /**
  * create a leaflet map
  * center in Texas
@@ -66,10 +69,10 @@ function styleOtherStates(feature) {
 // style for counties
 function styleCounties(feature) {
   return {
-    fillColor: "#f075e6",
-    weight: 3,
+    fillColor: "transparent",
+    weight: 0.5,
     opacity: 1,
-    color: "#6eff54", //Outline color
+    color: "black", //Outline color
     fillOpacity: 0.7
   };
 }
@@ -83,18 +86,30 @@ $.getJSON(OTHER_STATES_PATH, data =>{
 $.getJSON(MEXICO_BORDER_PATH, data =>{
     L.geoJson(data, {style: styleOtherStates}).addTo(map);
 });
+$.getJSON(CAL_BORDER_PATH, data =>{
+  L.geoJson(data, {style: styleOtherStates}).addTo(map);
+});
 $.getJSON(TEXAS_BORDER_PATH, data =>{
     texasBorderData = L.geoJson(data, {style: styleTexasBorder}).addTo(map);
 });
 
+//map.removeLayer(texasCountiesData);
+// show county border data
+$.getJSON(TEXAS_COUNTIES_PATH, data =>{
+  texasCountiesData =  L.geoJson(data, {style: styleCounties}).addTo(map);
+});
 
-// add listener to the show county and show precinct toggles
-document.getElementById("togBtnC").addEventListener("change", function(){
-  if (this.checked){
-    $.getJSON(TEXAS_COUNTIES_PATH, data =>{
-      texasCountiesData =  L.geoJson(data, {style: styleCounties}).addTo(map);
-    });
-  }else{
-    map.removeLayer(texasCountiesData);
+
+// load precinct border when zoomed in
+map.on('zoomend', function() {
+  if (map.getZoom() > 8){
+    if (!map.hasLayer(texasPrecinctData)){
+      $.getJSON(TEXAS_PRECINCT_PATH, data =>{
+        texasPrecinctData =  L.geoJson(data, {style: styleCounties}).addTo(map);
+      });
+    }
+  }
+  else {
+    if (map.hasLayer(texasPrecinctData)) map.removeLayer(texasPrecinctData);
   }
 });

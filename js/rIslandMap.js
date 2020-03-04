@@ -10,14 +10,14 @@ let rIslandCountiesData;
  * zoom: disabled
  */
 function initMap() {
-  map = L.map("rIslandMapID").setView([42.0902405, -71.7128906], 10);
+  map = L.map("rIslandMapID").setView([42.0902405, -71.7128906], 3);
   L.tileLayer(
     "https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}",
     {
       attribution:
         'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
       noWrap: true,
-      minZoom: 10,
+      minZoom: 9,
       id: "mapbox/streets-v11",
       tileSize: 512,
       zoomOffset: -1,
@@ -32,8 +32,8 @@ function initMap() {
   // setting boundaries so it only show united states
   map.setMaxBounds(
     L.latLngBounds(
-      L.latLng(41.997377, -72.327629), //Southwest
-      L.latLng(41.384359, -70.885666) //Northeast
+      L.latLng(42.452324, -72.567629), //Southwest
+      L.latLng(40.894359, -70.295666) //Northeast
     )
   );
 }
@@ -63,10 +63,10 @@ function styleOtherStates(feature) {
 // style for counties
 function styleCounties(feature) {
   return {
-    fillColor: "#f075e6",
-    weight: 5,
+    fillColor: "transparent",
+    weight: 0.5,
     opacity: 1,
-    color: "#6eff54", //Outline color
+    color: "black", //Outline color
     fillOpacity: 0.7
   };
 }
