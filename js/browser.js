@@ -1,4 +1,6 @@
 // file for some basic event handling
+var marker;
+var popup;
 
 // refresh page function
 function refresh(){
@@ -34,7 +36,13 @@ function selfInterRedirectHandler(){
     document.getElementById("sf1").addEventListener("click", function(e) {
         // e.target was the clicked element
         if(e.target) {
-            recenter(map, allSelfinter[0], 15);
+            recenter(map, allSelfinter[0], 14);
+            if (marker != undefined) {
+                map.removeLayer(marker);
+            }
+            marker = L.marker(allSelfinter[0]).addTo(map);
+            popup = marker.bindPopup('<b>Self-Intersecting</b>');
+            popup.openPopup();
         }
     });
 }
@@ -44,18 +52,36 @@ function overlappingRedirectHandler(){
         // e.target was the clicked element
         if(e.target) {
             recenter(map, allOverlap[0], 11);
+            if (marker != undefined) {
+                map.removeLayer(marker);
+            }
+            marker = L.marker(allOverlap[0]).addTo(map);
+            popup = marker.bindPopup('<b>Overlapping</b>');
+            popup.openPopup();
         }
     });
     document.getElementById("o2").addEventListener("click", function(e) {
         // e.target was the clicked element
         if(e.target) {
             recenter(map, allOverlap[1], 15);
+            if (marker != undefined) {
+                map.removeLayer(marker);
+            }
+            marker = L.marker(allOverlap[1]).addTo(map);
+            popup = marker.bindPopup('<b>Overlapping</b>');
+            popup.openPopup();
         }
     });
     document.getElementById("o3").addEventListener("click", function(e) {
         // e.target was the clicked element
         if(e.target) {
             recenter(map, allOverlap[2], 15);
+            if (marker != undefined) {
+                map.removeLayer(marker);
+            }
+            marker = L.marker(allOverlap[2]).addTo(map);
+            popup = marker.bindPopup('<b>Overlapping</b>');
+            popup.openPopup();
         }
     });
 }
