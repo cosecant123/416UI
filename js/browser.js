@@ -88,6 +88,7 @@ function handleOverlapping(){
     document.getElementById("errors").innerHTML = "";
     let counter = 1;
     allOverlap.forEach(item => {
+        let id = '"o' + counter + '"'; 
         $("#errors").append('<li id=' + id + '><a href="#">Overlapping ' + counter + '</a></li>');
         counter = counter + 1;
     });
@@ -128,6 +129,7 @@ function initListeners(){
     document.getElementById("showTexasButton").addEventListener("click", redirectTexasPage);
     document.getElementById("showRhodeButton").addEventListener("click", redirectRIPage);
     window.addEventListener("resize", resizeMap);
+    
     document.getElementById("showGhostPrecincts").addEventListener("click", handleShowGhost);
     document.getElementById("showSelfIntersect").addEventListener("click", handleSelfIntersect);
     document.getElementById("showOverlapping").addEventListener("click", handleOverlapping);
