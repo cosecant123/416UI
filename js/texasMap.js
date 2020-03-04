@@ -118,6 +118,46 @@ function onProblemArea(feature, layer) {
 
 initMap();
 
+/**
+ * Toolbar for drawing polygon on the map
+ */
+var editableLayers = new L.FeatureGroup();
+map.addLayer(editableLayers);
+var drawPluginOptions = {
+	position: 'topright',
+	draw: {
+		polygon: {
+			allowIntersection: false,
+			drawError: {
+				color: '#e1e100'
+			},
+			shapeOptions: {
+				color: '#97009c'
+			}
+		},
+		polyline: false,
+		circle: false,
+		rectangle: false,
+		marker: false,
+	},
+	edit: {
+		featureGroup: editableLayers,
+		remove: true
+	}
+};
+
+var drawControl = new L.Control.Draw(drawPluginOptions);
+map.addControl(drawControl);
+var editableLayers = new L.FeatureGroup();
+map.addLayer(editableLayers);
+
+map.on('draw:created', function(e) {
+	var type = e.layerType,
+	layer = e.layer;
+
+	editableLayers.addLayer(layer);
+});
+
 $.getJSON(OTHER_STATES_PATH, data => {
     L.geoJson(data, { style: styleOtherStates }).addTo(map);
 });
