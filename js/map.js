@@ -123,7 +123,6 @@ initLoadGeoJSON();
 var geojson;
 
 function highlightFeature(e) {
-  console.log("mouse in");
   var layer = e.target;
 
   layer.setStyle({
