@@ -21,6 +21,7 @@
       integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
       crossorigin=""
     />
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <!-- custom css -->
     <link rel="stylesheet" href="css/map.css" />
     <link rel="stylesheet" href="css/navbar.css" />
@@ -38,6 +39,8 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/0.4.2/leaflet.draw.css"
     />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/0.4.2/leaflet.draw.js"></script>
+    
+
   </head>
 
   <body>
@@ -58,7 +61,7 @@
               </button>
             </hbox>
           </hbox>
-
+          <button class="openbtn" onclick="openNavR()">☰ History</button>
           <ul class="nav navbar-nav">
             <li id="showCaliforniaButton">
               <a href="#">California</a>
@@ -89,8 +92,39 @@
                 <li id="showGaps">
                   <a href="#">Gaps</a>
                 </li>
+                <li id="showAllErrors">
+                  <a href="#">All Errors</a>
+                </li>
               </ul>
             </li>
+
+            <li class="dropdown">
+              <a id="errorsName" class="dropdown-toggle" data-toggle="dropdown" href="#"
+                >All Errors<span class="caret"></span
+              ></a>
+              <ul id="errors" class="dropdown-menu">
+                <li id="data1">
+                  <a href="#">error spot 1</a>
+                </li>
+                <li id="data2">
+                  <a href="#">error spot 2</a>
+                </li>
+                <li id="data3">
+                  <a href="#">error spot 3</a>
+                </li>
+                <li id="data4">
+                  <a href="#">error spot 4</a>
+                </li>
+                </li>
+                <li id="data5">
+                  <a href="#">error spot 5</a>
+                </li>
+                <li id="data6">
+                  <a href="#">error spot 6</a>
+                </li>
+              </ul>
+            </li>
+            
           </ul>
         </div>
       </nav>
@@ -164,6 +198,93 @@
             </tr>
           </tbody>
         </table>
+      </div>
+    </div>
+    <div id="mySidenavR" class="sidebarR">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNavR()">&times;</a>
+      <div class="mylistpadding">
+        <h2 class="historyTitle">Updating History</h2>
+        <button class="collapsible">UPDATE by joeSmiths: 01/12/2020, 08:56:30 AM</button>
+        <div class="myhislist">
+          <ul class="w3-ul">
+            <li class="w3-hover-white">OP:Spliting</li>
+            <li class="w3-hover-white">OP:Merging</li>
+            <li class="w3-hover-white">OP:Merging</li>
+            <li class="w3-hover-white">OP:Phantomize</li>
+            <li class="w3-hover-white">OP:Adding</li>
+            <li class="w3-hover-white">OP:Data</li>
+            <li class="w3-hover-white">OP:Merging</li>
+            <li class="w3-hover-white">OP:Merging</li>
+            <li class="w3-hover-white">OP:Data</li>
+            <li class="w3-hover-white">OP:Adding</li>
+            <li class="w3-hover-white">OP:Merging</li>
+            <li class="w3-hover-white">OP:Merging</li>
+            <li class="w3-hover-white">OP:Data</li>
+            <li class="w3-hover-white">OP:Adding</li>
+            <li class="w3-hover-white">OP:Adding</li>
+            <li class="w3-hover-white">OP:Adding</li>
+            <li class="w3-hover-white">OP:Merging</li>
+            <li class="w3-hover-white">OP:Merging</li>
+            <li class="w3-hover-white">OP:Data</li>
+            <li class="w3-hover-white">OP:Adding</li>
+          </ul>
+        </div>
+        <button class="collapsible">UPDATE by andPatterson: 01/01/2020, 04:30:12 PM</button>
+        <div class="myhislist">
+          <ul class="w3-ul">
+            <li class="w3-hover-white">OP:Spliting</li>
+            <li class="w3-hover-white">OP:Data</li>
+            <li class="w3-hover-white">OP:Adding</li>
+          </ul>
+        </div>
+        <button class="collapsible">UPDATE by tomWatts: 12/20/2019, 12:33:58 PM</button>
+        <div class="myhislist">
+          <ul class="w3-ul">
+            <li class="w3-hover-white">OP:Spliting</li>
+            <li class="w3-hover-white">OP:Merging</li>
+            <li class="w3-hover-white">OP:Merging</li>
+            <li class="w3-hover-white">OP:Merging</li>
+            <li class="w3-hover-white">OP:Data</li>
+            <li class="w3-hover-white">OP:Adding</li>
+          </ul>
+        </div>
+        <button class="collapsible">UPDATE by joeSmiths: 11/30/2019, 11:17:46 AM</button>
+        <div class="myhislist">
+          <ul class="w3-ul">
+            <li class="w3-hover-white">OP:Spliting</li>
+            <li class="w3-hover-white">OP:Merging</li>
+            <li class="w3-hover-white">OP:Merging</li>
+            <li class="w3-hover-white">OP:Merging</li>
+            <li class="w3-hover-white">OP:Data</li>
+            <li class="w3-hover-white">OP:Adding</li>
+          </ul>
+        </div>
+        <button class="collapsible">UPDATE by pauOwen: 10/29/2019, 05:44:35 PM</button>
+        <div class="myhislist">
+          <ul class="w3-ul">
+            <li class="w3-hover-white">OP:Spliting</li>
+
+          </ul>
+        </div>
+        <button class="collapsible">UPDATE by tomWatts: 08/03/2019, 01:48:19 PM</button>
+        <div class="myhislist">
+          <ul class="w3-ul">
+
+            <li class="w3-hover-white">OP:Data</li>
+            <li class="w3-hover-white">OP:Adding</li>
+          </ul>
+        </div>
+        <button class="collapsible">UPDATE by jacClark: 05/20/2019, 09:28:45 AM</button>
+        <div class="myhislist">
+          <ul class="w3-ul">
+            <li class="w3-hover-white">OP:Spliting</li>
+            <li class="w3-hover-white">OP:Merging</li>
+            <li class="w3-hover-white">OP:Merging</li>
+            <li class="w3-hover-white">OP:Merging</li>
+            <li class="w3-hover-white">OP:Data</li>
+            <li class="w3-hover-white">OP:Adding</li>
+          </ul>
+        </div>
       </div>
     </div>
 

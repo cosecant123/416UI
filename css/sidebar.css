@@ -28,6 +28,8 @@
 .sidebar .closebtn {
     position: absolute;
     right: 10px;
+    color: black;
+    font-size: 25px;
 }
 
 
@@ -162,3 +164,104 @@ td.text-center {
 td.text-right {
     text-align: right;
 }
+
+
+
+.sidebarR {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 8000;
+    /*navbar 的index是801*/
+    top: 0;
+    right: 0;
+    background-color: rgb(114, 113, 113);
+    overflow-x: hidden;
+    padding-top: 10px;
+    transition: 0.5s;
+    margin-top: 3.2em;
+  }
+  
+  .sidebarR a {
+    padding: 4px 4px 4px 32px;
+    text-decoration: none;
+    color: #818181;
+    display: block;
+    transition: 0.3s
+  }
+  
+  .sidebarR a:hover {
+    color: #f1f1f1;
+  }
+  
+  .sidebarR .closebtn {
+    position: absolute;
+    left: 10px;
+    color: black;
+    font-size: 25px;
+  }
+  
+  .openbtn {
+    position: absolute;
+    right: 0px;
+    background-color: transparent;
+    color: #ffffff;
+    border: none;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.4;
+    border-radius: 4px;
+    padding: 17px 15px;
+    -webkit-font-smoothing: subpixel-antialiased;
+    transition: border 0.25s linear, color 0.25s linear,
+      background-color 0.25s linear;
+  }
+  
+  .openbtn:hover {
+    color: #1abc9c;
+  }
+  
+  .historyTitle{
+    padding-left: 20px;
+    color: white;
+    font-weight: normal;
+  
+  }
+  
+  .mylistpadding {
+    padding-top: 40px;
+  }
+  
+  .myhislist {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+  }
+  
+  .collapsible {
+    background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  }
+  
+  .active, .collapsible:hover {
+    background-color: #555;
+  }
+  
+  .collapsible:after {
+    content: '\002B';
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+  }
+  
+  .active:after {
+    content: "\2212";
+  }

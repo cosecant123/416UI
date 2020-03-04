@@ -200,6 +200,20 @@ function onTexasPrecincts(feature, layer) {
     });
 }
 
+
+var allGhost;
+var allOverlap = [[33.6294, -99.1351], [29.5517, -98.2357], [31.3302, -94.7244]];
+var allSelfinter = [[29.5471, -98.1980]];
+
+
+
+function recenter(map, coordinate, zoomSize){
+    map.setView(coordinate, zoomSize);
+}
+
+
+
+
 // load precinct border when zoomed in
 map.on("zoomend", function() {
     if (map.getZoom() > 6) {
