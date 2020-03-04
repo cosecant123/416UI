@@ -1,12 +1,8 @@
-#mapid{
+#mapid, #calMapID, #texasMapID, #rIslandMapID{
     height: 92.5vh;
     width: 100vw;
 }
 
-#calMapID, #texasMapID, #rIslandMapID{
-    height: 92.5vh;
-    width: 65vw;
-}
 
 .info {
     padding: 6px 8px;
