@@ -2,7 +2,7 @@
     height: 100%;
     width: 0;
     position: fixed;
-    z-index: 800;
+    z-index: 8000;
     /*navbar 的index是801*/
     top: 0;
     left: 0;
@@ -27,7 +27,6 @@
 
 .sidebar .closebtn {
     position: absolute;
-    top: 50px;
     right: 10px;
 } 
 
@@ -43,9 +42,8 @@
 
 div.table-title {
   display: block;
-  margin-bottom: 2em;
+  margin-bottom: 1.5em;
   max-width: 600px;
-  padding:5px;
   width: 100%;
   text-align: center;
 }
@@ -61,19 +59,14 @@ div.table-title {
 }
 
 
+
 /*** Table Styles **/
 
 .table-fill {
   background: white;
   border-radius:3px;
   border-collapse: collapse;
-  height: 320px;
-  margin: auto;
-  max-width: 600px;
-  padding:5px;
-  width: 80%;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
-  animation: float 5s infinite;
+  width: 100px;
 }
  
 th {
@@ -81,9 +74,9 @@ th {
   background:#1b1e24;
   border-bottom:4px solid #9ea7af;
   border-right: 1px solid #343a45;
-  font-size:23px;
+  font-size:19px;
   font-weight: 100;
-  padding:24px;
+  padding:20px;
   text-align:left;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   vertical-align:middle;
@@ -100,7 +93,7 @@ th:last-child {
   
 tr {
   border-top: 1px solid #C1C3D1;
-  border-bottom-: 1px solid #C1C3D1;
+  border-bottom: 1px solid #C1C3D1;
   color:#666B85;
   font-size:16px;
   font-weight:normal;
@@ -139,11 +132,11 @@ tr:last-child td:last-child {
  
 td {
   background:#FFFFFF;
-  padding:20px;
+  padding:10px;
   text-align:left;
   vertical-align:middle;
   font-weight:300;
-  font-size:18px;
+  font-size:15px;
   text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1);
   border-right: 1px solid #C1C3D1;
 }
@@ -175,3 +168,4 @@ td.text-center {
 td.text-right {
   text-align: right;
 }
+
